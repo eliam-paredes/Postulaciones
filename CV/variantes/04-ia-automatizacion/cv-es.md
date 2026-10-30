@@ -1,0 +1,52 @@
+# Eliam Paredes
+Desarrollador de Integraciones de IA · Gemini · Automatización · TypeScript
+Santo Domingo Este, RD · eliamjesusparedes@gmail.com · +1 829 651 0720 · [linkedin.com/in/eliamparedes](https://linkedin.com/in/eliamparedes) · [github.com/MaravStress](https://github.com/MaravStress) · [maravstress.github.io](https://maravstress.github.io)
+
+## Resumen
+Desarrollador que integra IA generativa en productos y flujos de trabajo de contenido. Construyó un SaaS con Gemini 2.5 Flash y automatizaciones para DaVinci Resolve con Nano Banana. Conoce el lado del creador: 14 contratos de video y animación 3D en Upwork, con 100% de éxito y badge Top Rated.
+
+## Experiencia
+### Freelancer: video, animación 3D e IA
+Upwork
+Abr 2024 – Actualidad
+- Trabajo como artista de animación 3D con IA para un cliente (contrato en curso).
+- Edito videos, miniaturas y shorts para canales de YouTube, el mismo flujo que hoy automatizo con IA.
+- Mantengo 100% Job Success y badge Top Rated, con 50% de clientes que repiten y más de 6.000 USD facturados.
+
+### Fundador y Desarrollador de Software
+Marav Studios
+Nov 2020 – Actualidad
+- Creo software para empresas de creación de contenido bajo la marca Marav Studios.
+- Construí Facturao, un SaaS propio que integra la API de Gemini 2.5 Flash.
+- Desarrollé automatizaciones para DaVinci Resolve que generan imágenes con Nano Banana dentro del flujo de edición.
+- Publico proyectos en TypeScript en GitHub, como una herramienta de planificación y una librería para Three.js en React.
+- Publiqué TrapNight en Google Play (Unity y C#), con más de 1.500 descargas y 4,7 estrellas.
+
+### Diseñador Gráfico y Web
+Promo Design DP Group
+Nov 2020 – Abr 2024
+- Automaticé hojas de Google Sheets con funciones en JavaScript (Apps Script) para el trabajo diario del equipo.
+- Programé herramientas web internas en XAMPP y creé desde cero el sitio web de la empresa.
+- Gestioné tareas en Jira y diseñé 3 o 4 piezas al día para estampación textil.
+
+### Game Developer y Diseñador UI/UX
+Reckers
+Ago 2019 – Nov 2020
+- Programé completo en Unity y C# el juego Reck, en un equipo de 4 personas con Scrum, Azure DevOps y Jira.
+
+## Educación
+### Ingeniería de Software
+Universidad APEC (UNAPEC)
+Abr 2024 – Actualidad
+
+### Tecnólogo en Multimedia
+ITLA (Instituto Tecnológico de Las Américas)
+Sep 2020 – Abr 2024
+
+## Habilidades
+- **IA generativa:** integración de APIs, Gemini 2.5 Flash, Nano Banana, Veo 3, ElevenLabs
+- **Automatización:** Google Apps Script, scripts para DaVinci Resolve
+- **Lenguajes:** TypeScript, JavaScript, PHP, C#, SQL
+- **Desarrollo:** React, Node.js, Supabase, Firebase, MySQL
+- **Herramientas:** Git, GitHub, Azure DevOps, Jira, DaVinci Resolve, Blender
+- **Idiomas:** español (nativo), inglés (B1, intermedio)

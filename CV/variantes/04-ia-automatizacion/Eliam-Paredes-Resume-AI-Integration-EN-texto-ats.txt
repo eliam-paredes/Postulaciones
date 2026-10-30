@@ -1,0 +1,47 @@
+Eliam Paredes
+AI Integration Developer · Gemini · Automation · TypeScript
+Santo Domingo Este, Dominican Republic · eliamjesusparedes@gmail.com · +1 829 651 0720 · linkedin.com/in/eliamparedes ·
+github.com/MaravStress · maravstress.github.io
+SUMMARY
+Developer who adds generative AI to products and content workflows. Built a SaaS with Gemini 2.5 Flash and DaVinci
+Resolve automations with Nano Banana. Knows the creator side too: 14 video and 3D animation contracts on Upwork, with
+100% Job Success and Top Rated status.
+WORK EXPERIENCE
+Freelancer: Video, 3D Animation and AI
+Upwork
+Apr 2024 – Present
+Work as a 3D and AI animation artist for a client (contract in progress).
+Edit videos, thumbnails, and shorts for YouTube channels, the same workflow now automated with AI.
+Keep 100% Job Success and Top Rated status, with 50% repeat clients and more than USD 6,000 earned.
+Founder and Software Developer
+Marav Studios
+Nov 2020 – Present
+Create software for content creation companies under the Marav Studios brand.
+Built Facturao, a personal SaaS product that uses the Gemini 2.5 Flash API.
+Built automations for DaVinci Resolve that create images with Nano Banana inside the editing workflow.
+Publish TypeScript projects on GitHub, such as a planning tool and a Three.js library for React.
+Released TrapNight on Google Play (Unity and C#), with more than 1,500 downloads and 4.7 stars.
+Graphic and Web Designer
+Promo Design DP Group
+Nov 2020 – Apr 2024
+Automated Google Sheets with JavaScript functions (Apps Script) for the team's daily work.
+Coded internal web tools with XAMPP and built the company website from scratch.
+Managed tasks in Jira and designed 3 or 4 textile print designs per day.
+Game Developer and UI/UX Designer
+Reckers
+Aug 2019 – Nov 2020
+Coded the full game Reck in Unity and C#, in a team of 4 using Scrum, Azure DevOps, and Jira.
+EDUCATION
+Software Engineering
+Universidad APEC (UNAPEC)
+Apr 2024 – Present
+Multimedia Technologist
+ITLA (Instituto Tecnológico de Las Américas)
+Sep 2020 – Apr 2024
+SKILLS
+Generative AI: API integration, Gemini 2.5 Flash, Nano Banana, Veo 3, ElevenLabs
+Automation: Google Apps Script, DaVinci Resolve scripts
+Languages: TypeScript, JavaScript, PHP, C#, SQL
+Development: React, Node.js, Supabase, Firebase, MySQL
+Tools: Git, GitHub, Azure DevOps, Jira, DaVinci Resolve, Blender
+Spoken languages: Spanish (native), English (B1, intermediate)

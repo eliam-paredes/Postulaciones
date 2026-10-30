@@ -1,0 +1,105 @@
+---
+name: outreach-propuestas
+description: >-
+  Escribe propuestas de Upwork y mensajes en frío (email, LinkedIn, X) que
+  consiguen respuesta: a clientes potenciales, reclutadores o hiring managers,
+  más seguimientos cuando no contestan. Usar cuando el usuario pega un job post
+  de Upwork o un brief, pide "escribe una propuesta", "mensaje para el
+  reclutador", "cold email", "cómo le escribo a X", "seguimiento", o quiere
+  revisar una propuesta que ya escribió.
+---
+
+# outreach-propuestas
+
+Una propuesta gana cuando reduce el riesgo de contratarte, no cuando te
+anuncia. Un mensaje en frío gana cuando parece escrito solo para esa persona.
+Basado en upwork-proposal-writing-skill (fahadqaseem, MIT), cold-message-writer
+(felixleezd, MIT) y upwork-hiring-panel-skill (aaksa, MIT).
+
+## Antes de escribir
+- Lee `CV/cv_total.md`: es la única fuente de credibilidad (proyectos,
+  números, stack, reviews). Si no existe, pide los 2-3 datos que hagan falta.
+- Lee `references/reglas-voz.md` siempre.
+- Si es para una postulación con carpeta, lee `Casos/<slug>/` (análisis,
+  empresa) y guarda el resultado en `Casos/<slug>/mensajes.md`. Si es para un
+  cliente, en `Ventas/propuestas/AAAA-MM-cliente.md`.
+- **Idioma**: el del post o del destinatario. En inglés, frases cortas y
+  simples que Eliam pueda sostener en una llamada (inglés intermedio).
+
+## Modo A · Propuesta de Upwork
+
+1. **Leer el post buscando el miedo.** Todo post es una queja disfrazada:
+   "fiable, sin excusas" = le fallaron antes; "debe tener esta calidad" =
+   contrató barato y salió mal. Si hay instrucciones ("empieza con la
+   palabra X", "no adjuntes Y"), cúmplelas literalmente y primero: son un
+   filtro.
+2. **Investigar al cliente** (si hay web/tienda/enlace): una observación
+   verdadera y específica que nadie más hará. Señales de Upwork: gasto
+   total, tasa de contratación, pago verificado, trabajos en paralelo.
+3. **Escribir en 5 movimientos:**
+   1. Abrir con su problema, con sus palabras. Nunca con saludo + resumen
+      del trabajo ni con credenciales.
+   2. Un detalle técnico preciso que solo diría alguien que hace este trabajo
+      (ej.: compresión Draco y LODs para que el modelo cargue en móvil).
+   3. Una sola línea de credibilidad, a mitad de texto, sacada del CV maestro.
+      En trabajos pequeños se omite: la rapidez es la credibilidad.
+   4. Quitar el riesgo: muestra gratis, mini auditoría, una pantalla o un
+      modelo de prueba.
+   5. Cerrar con una pregunta concreta y fácil de responder. Nunca
+      "espero su respuesta".
+4. **Entregar dos variantes:**
+   - **A · Proceso** (120-180 palabras): enseña el cómo. Para presupuestos
+     altos o largo plazo.
+   - **B · Directa** (50-90 palabras): problema, prueba, oferta, pregunta.
+     Para trabajos pequeños o urgentes.
+   Debajo de cada una, una línea de cuándo usarla. Si el post trae
+   preguntas, respóndelas aparte.
+5. **Precio:** si piden precio fijo, da un número. Si el alcance no está
+   claro, nombra la variable que lo mueve y da un rango con su supuesto.
+   No bajes el precio por bajarlo.
+
+## Modo B · Mensaje en frío (email / LinkedIn / X)
+
+1. **Contexto real primero:** quién es (nombre, rol, empresa), qué se pide y
+   un gancho verdadero (algo que publicó, lanzó, contrata, un contacto común).
+   Sin gancho real, pídelo o avisa de que el mensaje será más débil. Nunca
+   inventes "me encantó tu post".
+2. **Tácticas** (elige 2-3, no todas):
+   - La primera línea (y el asunto) es sobre ellos, nunca "Yo/Nosotros/Mi".
+   - Di su objeción antes que ellos ("sé que recibes muchos de estos…").
+   - Una sola petición, que cueste nada: "¿te mando el demo de 90 s?" en vez
+     de "¿30 minutos para una llamada?".
+   - Prueba pequeña y concreta en vez de adjetivos.
+   - Haz que se sienta elegido: por qué él y no una lista.
+3. **Largo:** DM < 50 palabras; email < 90 palabras con asunto corto en
+   minúsculas que suene a persona.
+4. **Para empleo** (reclutador / hiring manager): menciona el puesto concreto,
+   el pain point del análisis y una prueba del CV; pide algo pequeño
+   (¿a quién le envío el CV?, ¿puedo mandarte un demo?).
+5. Plantillas por situación en `references/plantillas.md`.
+
+## Modo C · Seguimiento (no contestan)
+Nunca "solo subo esto". Da algo nuevo o una salida fácil ("si no es
+prioridad, dímelo y no insisto"). Secuencia en `references/plantillas.md`.
+
+## Modo D · Revisar una propuesta suya
+Evalúala con la checklist y con 3 lectores: cliente con prisa, cliente
+técnico, cliente quemado por un freelancer anterior. Di qué haría que cada uno
+la descarte y reescríbela.
+
+## Checklist antes de entregar
+- [ ] Instrucciones del post cumplidas literalmente
+- [ ] Empieza por el problema del otro, no por Eliam
+- [ ] Un detalle técnico preciso del caso
+- [ ] Máximo una línea de credibilidad, y es real (está en el CV maestro)
+- [ ] Muestra/auditoría gratis ofrecida (propuestas)
+- [ ] Termina en una pregunta fácil de responder
+- [ ] Más "tú/you" que "yo/I"
+- [ ] Nada de la lista prohibida de `reglas-voz.md`
+- [ ] Nombres de cliente, marca y términos técnicos bien escritos
+- [ ] Ningún número, cliente ni logro inventado
+
+## Salida
+Texto plano listo para pegar, sin encabezados ni viñetas dentro del cuerpo
+(salvo que el post use una lista numerada). Breve, siguiendo la preferencia
+del usuario por respuestas concisas.

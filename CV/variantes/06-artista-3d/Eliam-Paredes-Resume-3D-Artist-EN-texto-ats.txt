@@ -1,0 +1,47 @@
+Eliam Paredes
+3D Generalist Artist · Blender · Substance 3D Painter · Maya · Animation
+Santo Domingo Este, Dominican Republic · eliamjesusparedes@gmail.com · +1 829 651 0720 · behance.net/eliam_paredes · Demo reel ·
+linkedin.com/in/eliamparedes
+SUMMARY
+3D artist with a Multimedia degree (ITLA) and more than 6 years creating models, textures, and animations for games, web,
+and video. Top Rated on Upwork with 100% Job Success in 14 contracts, most of them 3D animation. A coding background
+makes it easy to bring assets into Unity and Three.js.
+WORK EXPERIENCE
+Freelance 3D Artist
+Upwork
+Apr 2024 – Present
+Animated 3D scenes in Blender for 6 clients: true crime channels, TikTok, social media, and AI animation.
+A 3D animation client left a 5.0 review: "creative, detail-oriented, and always takes feedback into consideration".
+Modeled a 3D asset for a Three.js website, with a 5.0 review ("Committed to Quality", "Detail Oriented").
+Created simulations in Blender and used motion tracking to add 3D to real video.
+Keep 100% Job Success and Top Rated status, with 50% repeat clients.
+Founder and Game Developer
+Marav Studios
+Nov 2020 – Present
+Created all the art, design, and code of TrapNight, a rhythm game in Unity with more than 1,500 downloads and 4.7
+stars on Google Play.
+Released 12 games on itch.io, most of them made in game jams.
+Built a 3D web portfolio to show personal models.
+Graphic and Web Designer
+Promo Design DP Group
+Nov 2020 – Apr 2024
+Designed 3 or 4 textile print designs per day in Illustrator and Affinity, and built the company website from scratch.
+Game Developer and UI/UX Designer
+Reckers
+Aug 2019 – Nov 2020
+Designed the UX and UI animations of the card game Reck, and coded it in Unity, in a team of 4.
+EDUCATION
+Software Engineering
+Universidad APEC (UNAPEC)
+Apr 2024 – Present
+Multimedia Technologist
+ITLA (Instituto Tecnológico de Las Américas)
+Sep 2020 – Apr 2024
+SKILLS
+3D: Blender, Maya, Adobe Substance 3D Painter, Geometry Nodes
+Areas: modeling, texturing, 3D animation, simulations, rendering, motion tracking
+Engines and web: Unity, Three.js
+2D: Blender Grease Pencil, Adobe Illustrator, Photoshop, Affinity
+Video: DaVinci Resolve, Fusion
+Coding: C#, TypeScript, JavaScript
+Spoken languages: Spanish (native), English (B1, intermediate)

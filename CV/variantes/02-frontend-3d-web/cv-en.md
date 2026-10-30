@@ -1,0 +1,48 @@
+# Eliam Paredes
+Creative Front-end Developer · React · Three.js · TypeScript · Blender
+Santo Domingo Este, Dominican Republic · eliamjesusparedes@gmail.com · +1 829 651 0720 · [linkedin.com/in/eliamparedes](https://linkedin.com/in/eliamparedes) · [github.com/MaravStress](https://github.com/MaravStress) · [maravstress.github.io](https://maravstress.github.io)
+
+## Summary
+Front-end developer with a strong 3D background: creates models in Blender and brings them to the web with Three.js and React. Multimedia Technologist and Software Engineering student. Top Rated on Upwork with 100% Job Success in 14 contracts in 3D, video, and game design.
+
+## Work Experience
+### Freelance 3D Artist
+Upwork
+Apr 2024 – Present
+- Modeled a 3D asset for a Three.js website; the client left a 5.0 review and praised the quality and communication.
+- Produced 3D animations in Blender for YouTube channels, TikTok, and social media, with changes based on client feedback.
+
+### Founder and Software Developer
+Marav Studios
+Nov 2020 – Present
+- Building a TypeScript library that makes Three.js easier to use in React (EasyThreejsForReact, in progress).
+- Built a personal website and a 3D portfolio in TypeScript, published on GitHub Pages.
+- Built Facturao, a personal SaaS product that uses the Gemini 2.5 Flash API.
+- Released TrapNight on Google Play: a solo rhythm game made in Unity and C# in one year, with more than 1,500 downloads and 4.7 stars.
+
+### Graphic and Web Designer
+Promo Design DP Group
+Nov 2020 – Apr 2024
+- Built the company website from scratch, maintained it for more than 3 years, and coded internal tools with XAMPP and Apps Script (JavaScript).
+- Designed 3 or 4 textile print designs per day, with care for layout and color for printing.
+
+### Game Developer and UI/UX Designer
+Reckers
+Aug 2019 – Nov 2020
+- Designed the UX, wireframes, and UI animations of the game Reck, and coded it in Unity and C# in a team of 4.
+
+## Education
+### Software Engineering
+Universidad APEC (UNAPEC)
+Apr 2024 – Present
+
+### Multimedia Technologist
+ITLA (Instituto Tecnológico de Las Américas)
+Sep 2020 – Apr 2024
+
+## Skills
+- **Front-end:** React, TypeScript, JavaScript, HTML5, CSS3, Tailwind CSS, Bootstrap
+- **3D web:** Three.js, 3D models for the web, Blender, Substance 3D Painter
+- **Design:** Figma, wireframes, UI animation, Illustrator, Affinity
+- **Back-end and tools:** Node.js, PHP, Supabase, Firebase, MySQL, Git, GitHub, Jira, Scrum
+- **Spoken languages:** Spanish (native), English (B1, intermediate)

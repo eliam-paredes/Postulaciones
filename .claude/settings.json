@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "WebSearch",
+      "WebFetch",
+      "Bash(python .claude/skills/cv-pdf/scripts/generar_cv.py:*)",
+      "Bash(python .claude/skills/cv-pdf/scripts/verificar_cv.py:*)",
+      "Bash(python3 .claude/skills/cv-pdf/scripts/generar_cv.py:*)",
+      "Bash(python3 .claude/skills/cv-pdf/scripts/verificar_cv.py:*)",
+      "Bash(py .claude/skills/cv-pdf/scripts/generar_cv.py:*)",
+      "Bash(py .claude/skills/cv-pdf/scripts/verificar_cv.py:*)"
+    ]
+  }
+}
