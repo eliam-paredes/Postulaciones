@@ -1,6 +1,6 @@
 # Eliam Paredes
 Creative Front-end Developer · React · Three.js · TypeScript · Blender
-Santo Domingo Este, Dominican Republic · eliamjesusparedes@gmail.com · +1 829 651 0720 · [linkedin.com/in/eliamparedes](https://linkedin.com/in/eliamparedes) · [github.com/MaravStress](https://github.com/MaravStress) · [maravstress.github.io](https://maravstress.github.io)
+Santo Domingo Este, Dominican Republic · eliamjesusparedes@gmail.com · +1 829 651 0720 · [linkedin.com/in/eliamparedes](https://linkedin.com/in/eliamparedes) · [github.com/eliam-paredes](https://github.com/eliam-paredes) · [eliam-paredes.github.io](https://eliam-paredes.github.io)
 
 ## Summary
 Front-end developer with a strong 3D background: creates models in Blender and brings them to the web with Three.js and React. Multimedia Technologist and Software Engineering student. Top Rated on Upwork with 100% Job Success in 14 contracts in 3D, video, and game design.
@@ -16,8 +16,8 @@ Apr 2024 – Present
 Marav Studios
 Nov 2020 – Present
 - Building a TypeScript library that makes Three.js easier to use in React (EasyThreejsForReact, in progress).
-- Built a personal website and a 3D portfolio in TypeScript, published on GitHub Pages.
-- Built Facturao, a personal SaaS product that uses the Gemini 2.5 Flash API.
+- Built web apps with React, TypeScript, and Vite, live on GitHub Pages: Planeao (task management with Firebase), CV_buildeao (resumes with Gemini 2.5 Flash), and Creador de contenido (social posts with AI). [Planeao](https://eliam-paredes.github.io/planeao/#/)
+- Built a personal website and a 3D portfolio in TypeScript.
 - Released TrapNight on Google Play: a solo rhythm game made in Unity and C# in one year, with more than 1,500 downloads and 4.7 stars.
 
 ### Graphic and Web Designer
@@ -41,7 +41,7 @@ ITLA (Instituto Tecnológico de Las Américas)
 Sep 2020 – Apr 2024
 
 ## Skills
-- **Front-end:** React, TypeScript, JavaScript, HTML5, CSS3, Tailwind CSS, Bootstrap
+- **Front-end:** React, TypeScript, JavaScript, Vite, HTML5, CSS3, Tailwind CSS, Bootstrap
 - **3D web:** Three.js, 3D models for the web, Blender, Substance 3D Painter
 - **Design:** Figma, wireframes, UI animation, Illustrator, Affinity
 - **Back-end and tools:** Node.js, PHP, Supabase, Firebase, MySQL, Git, GitHub, Jira, Scrum

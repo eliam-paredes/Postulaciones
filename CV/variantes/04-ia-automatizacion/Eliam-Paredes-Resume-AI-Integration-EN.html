@@ -6,43 +6,43 @@ body {
   font-family: Calibri, Carlito, "Segoe UI", Arial, Helvetica, sans-serif;
   font-size: 10.5pt;
   line-height: 1.24;
-  color: #111;
+  color: #4a4a4a;
   margin: 0;
   /* sin ligaduras: evita que 'fi' salga como un solo carácter en el ATS */
   font-variant-ligatures: none;
   font-feature-settings: "liga" 0, "clig" 0;
 }
-a { color: #111; text-decoration: none; }
-h1 { font-size: 20pt; margin: 0 0 2pt; letter-spacing: 0.2pt; }
-.titular { font-size: 11pt; margin: 0 0 2pt; color: #222; }
-.contacto { font-size: 9.5pt; margin: 0 0 6pt; color: #333; }
+a { color: #1a56db; text-decoration: underline; }
+h1 { font-size: 20pt; margin: 0 0 2pt; letter-spacing: 0.2pt; color: #111; text-align: center; }
+.titular { font-size: 11pt; margin: 0 0 2pt; color: #333; text-align: center; }
+.contacto { font-size: 9.5pt; margin: 0 0 6pt; color: #555; text-align: center; }
 h2 {
   font-size: 11.5pt;
   text-transform: uppercase;
   letter-spacing: 0.6pt;
-  margin: 7pt 0 3pt;
+  margin: 20pt 0 8pt;
   padding-bottom: 1.5pt;
   border-bottom: 0.75pt solid #444;
+  color: #111;
   break-after: avoid;
 }
-h3 { font-size: 10.8pt; margin: 4pt 0 0; break-after: avoid; }
-.org { margin: 0; font-weight: 600; color: #222; break-after: avoid; }
-.fechas { margin: 0 0 1pt; color: #555; font-size: 9.8pt; break-after: avoid; }
+/* Línea del puesto: puesto a la izquierda (destacado), empresa al lado, fecha a la derecha */
+.rol { display: flex; justify-content: space-between; align-items: baseline; gap: 8pt; margin: 10pt 0 3pt; break-after: avoid; }
+h3 { font-size: 11.5pt; font-weight: 700; margin: 0; color: #000; }
+.empresa { font-size: 10pt; font-weight: 400; color: #555; }
+.fechas { margin: 0; color: #555; font-size: 9.5pt; text-align: right; white-space: nowrap; }
 p { margin: 0 0 3pt; }
-ul { margin: 1pt 0 2pt; padding-left: 14pt; }
-li { margin: 0 0 1pt; }
-.bloque { break-inside: avoid; }
-
+ul { margin: 2pt 0 3pt; padding-left: 14pt; }
+li { margin: 0 0 2pt; }
+.bloque { break-inside: avoid; margin: 0 0 10pt; }
 </style></head><body><h1>Eliam Paredes</h1>
 <p class="titular">AI Integration Developer · Gemini · Automation · TypeScript</p>
-<p class="contacto">Santo Domingo Este, Dominican Republic · eliamjesusparedes@gmail.com · +1 829 651 0720 · <a href="https://linkedin.com/in/eliamparedes">linkedin.com/in/eliamparedes</a> · <a href="https://github.com/MaravStress">github.com/MaravStress</a> · <a href="https://maravstress.github.io">maravstress.github.io</a></p>
+<p class="contacto">Santo Domingo Este, Dominican Republic · eliamjesusparedes@gmail.com · +1 829 651 0720 · <a href="https://linkedin.com/in/eliamparedes">linkedin.com/in/eliamparedes</a> · <a href="https://github.com/eliam-paredes">github.com/eliam-paredes</a> · <a href="https://eliam-paredes.github.io">eliam-paredes.github.io</a></p>
 <h2>Summary</h2>
-<p>Developer who adds generative AI to products and content workflows. Built a SaaS with Gemini 2.5 Flash and DaVinci Resolve automations with Nano Banana. Knows the creator side too: 14 video and 3D animation contracts on Upwork, with 100% Job Success and Top Rated status.</p>
+<p>Developer who adds generative AI to products and content workflows. Built web apps with Gemini 2.5 Flash and Python scripts that automate DaVinci Resolve with Veo 3 and Nano Banana. Knows the creator side too: 14 video and 3D animation contracts on Upwork, with 100% Job Success and Top Rated status.</p>
 <h2>Work Experience</h2>
 <div class="bloque">
-<h3>Freelancer: Video, 3D Animation and AI</h3>
-<p class="org">Upwork</p>
-<p class="fechas">Apr 2024 – Present</p>
+<div class="rol"><h3>Freelancer: Video, 3D Animation and AI <span class="empresa">| Upwork</span></h3><p class="fechas">Apr 2024 – Present</p></div>
 <ul>
 <li>Work as a 3D and AI animation artist for a client (contract in progress).</li>
 <li>Edit videos, thumbnails, and shorts for YouTube channels, the same workflow now automated with AI.</li>
@@ -50,52 +50,40 @@ li { margin: 0 0 1pt; }
 </ul>
 </div>
 <div class="bloque">
-<h3>Founder and Software Developer</h3>
-<p class="org">Marav Studios</p>
-<p class="fechas">Nov 2020 – Present</p>
+<div class="rol"><h3>Founder and Software Developer <span class="empresa">| Marav Studios</span></h3><p class="fechas">Nov 2020 – Present</p></div>
 <ul>
-<li>Create software for content creation companies under the Marav Studios brand.</li>
+<li>Built CV_buildeao with React, TypeScript, and Gemini 2.5 Flash: users upload their data and get a structured resume. <a href="https://eliam-paredes.github.io/CV_buildeao/">CV_buildeao</a></li>
+<li>Built Creador de contenido, a SaaS in React and TypeScript that creates social media posts with hook templates and AI.</li>
 <li>Built Facturao, a personal SaaS product that uses the Gemini 2.5 Flash API.</li>
-<li>Built automations for DaVinci Resolve that create images with Nano Banana inside the editing workflow.</li>
-<li>Publish TypeScript projects on GitHub, such as a planning tool and a Three.js library for React.</li>
-<li>Released TrapNight on Google Play (Unity and C#), with more than 1,500 downloads and 4.7 stars.</li>
+<li>Wrote Python scripts that automate repetitive DaVinci Resolve tasks with Veo 3, Nano Banana, and Gemini. <a href="https://github.com/eliam-paredes/Script-Davinci-Propietario">GitHub</a></li>
 </ul>
 </div>
 <div class="bloque">
-<h3>Graphic and Web Designer</h3>
-<p class="org">Promo Design DP Group</p>
-<p class="fechas">Nov 2020 – Apr 2024</p>
+<div class="rol"><h3>Graphic and Web Designer <span class="empresa">| Promo Design DP Group</span></h3><p class="fechas">Nov 2020 – Apr 2024</p></div>
 <ul>
 <li>Automated Google Sheets with JavaScript functions (Apps Script) for the team's daily work.</li>
 <li>Coded internal web tools with XAMPP and built the company website from scratch.</li>
-<li>Managed tasks in Jira and designed 3 or 4 textile print designs per day.</li>
 </ul>
 </div>
 <div class="bloque">
-<h3>Game Developer and UI/UX Designer</h3>
-<p class="org">Reckers</p>
-<p class="fechas">Aug 2019 – Nov 2020</p>
+<div class="rol"><h3>Game Developer and UI/UX Designer <span class="empresa">| Reckers</span></h3><p class="fechas">Aug 2019 – Nov 2020</p></div>
 <ul>
 <li>Coded the full game Reck in Unity and C#, in a team of 4 using Scrum, Azure DevOps, and Jira.</li>
 </ul>
 </div>
 <h2>Education</h2>
 <div class="bloque">
-<h3>Software Engineering</h3>
-<p class="org">Universidad APEC (UNAPEC)</p>
-<p class="fechas">Apr 2024 – Present</p>
+<div class="rol"><h3>Software Engineering <span class="empresa">| Universidad APEC (UNAPEC)</span></h3><p class="fechas">Apr 2024 – Present</p></div>
 </div>
 <div class="bloque">
-<h3>Multimedia Technologist</h3>
-<p class="org">ITLA (Instituto Tecnológico de Las Américas)</p>
-<p class="fechas">Sep 2020 – Apr 2024</p>
+<div class="rol"><h3>Multimedia Technologist <span class="empresa">| ITLA (Instituto Tecnológico de Las Américas)</span></h3><p class="fechas">Sep 2020 – Apr 2024</p></div>
 </div>
 <h2>Skills</h2>
 <ul>
 <li><strong>Generative AI:</strong> API integration, Gemini 2.5 Flash, Nano Banana, Veo 3, ElevenLabs</li>
-<li><strong>Automation:</strong> Google Apps Script, DaVinci Resolve scripts</li>
-<li><strong>Languages:</strong> TypeScript, JavaScript, PHP, C#, SQL</li>
-<li><strong>Development:</strong> React, Node.js, Supabase, Firebase, MySQL</li>
+<li><strong>Automation:</strong> Python, Google Apps Script, DaVinci Resolve scripts</li>
+<li><strong>Languages:</strong> TypeScript, JavaScript, Python, PHP, C#, SQL</li>
+<li><strong>Development:</strong> React, Vite, Firebase, Node.js, Supabase, MySQL</li>
 <li><strong>Tools:</strong> Git, GitHub, Azure DevOps, Jira, DaVinci Resolve, Blender</li>
 <li><strong>Spoken languages:</strong> Spanish (native), English (B1, intermediate)</li>
 </ul></body></html>

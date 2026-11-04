@@ -1,12 +1,12 @@
 ---
 name: outreach-propuestas
 description: >-
-  Escribe propuestas de Upwork y mensajes en frío (email, LinkedIn, X) que
-  consiguen respuesta: a clientes potenciales, reclutadores o hiring managers,
-  más seguimientos cuando no contestan. Usar cuando el usuario pega un job post
-  de Upwork o un brief, pide "escribe una propuesta", "mensaje para el
-  reclutador", "cold email", "cómo le escribo a X", "seguimiento", o quiere
-  revisar una propuesta que ya escribió.
+  Escribe mensajes en frío (email, LinkedIn, X) que consiguen respuesta: a
+  clientes potenciales, reclutadores o hiring managers, más seguimientos
+  cuando no contestan, y revisa propuestas ya escritas. Usar cuando el
+  usuario pide "mensaje para el reclutador", "cold email", "cómo le escribo
+  a X", "seguimiento", o quiere revisar una propuesta suya. Para escribir
+  una propuesta nueva de Upwork usar postular-upwork.
 ---
 
 # outreach-propuestas
@@ -27,36 +27,10 @@ Basado en upwork-proposal-writing-skill (fahadqaseem, MIT), cold-message-writer
   simples que Eliam pueda sostener en una llamada (inglés intermedio).
 
 ## Modo A · Propuesta de Upwork
-
-1. **Leer el post buscando el miedo.** Todo post es una queja disfrazada:
-   "fiable, sin excusas" = le fallaron antes; "debe tener esta calidad" =
-   contrató barato y salió mal. Si hay instrucciones ("empieza con la
-   palabra X", "no adjuntes Y"), cúmplelas literalmente y primero: son un
-   filtro.
-2. **Investigar al cliente** (si hay web/tienda/enlace): una observación
-   verdadera y específica que nadie más hará. Señales de Upwork: gasto
-   total, tasa de contratación, pago verificado, trabajos en paralelo.
-3. **Escribir en 5 movimientos:**
-   1. Abrir con su problema, con sus palabras. Nunca con saludo + resumen
-      del trabajo ni con credenciales.
-   2. Un detalle técnico preciso que solo diría alguien que hace este trabajo
-      (ej.: compresión Draco y LODs para que el modelo cargue en móvil).
-   3. Una sola línea de credibilidad, a mitad de texto, sacada del CV maestro.
-      En trabajos pequeños se omite: la rapidez es la credibilidad.
-   4. Quitar el riesgo: muestra gratis, mini auditoría, una pantalla o un
-      modelo de prueba.
-   5. Cerrar con una pregunta concreta y fácil de responder. Nunca
-      "espero su respuesta".
-4. **Entregar dos variantes:**
-   - **A · Proceso** (120-180 palabras): enseña el cómo. Para presupuestos
-     altos o largo plazo.
-   - **B · Directa** (50-90 palabras): problema, prueba, oferta, pregunta.
-     Para trabajos pequeños o urgentes.
-   Debajo de cada una, una línea de cuándo usarla. Si el post trae
-   preguntas, respóndelas aparte.
-5. **Precio:** si piden precio fijo, da un número. Si el alcance no está
-   claro, nombra la variable que lo mueve y da un rango con su supuesto.
-   No bajes el precio por bajarlo.
+Se hace con la skill `postular-upwork` (dolor, boceto de 4 partes,
+propuesta final de 50-150 palabras y enlaces por pista). No la escribas
+desde aquí. Esta skill solo revisa propuestas ya escritas (Modo D) y hace
+los seguimientos (Modo C).
 
 ## Modo B · Mensaje en frío (email / LinkedIn / X)
 
@@ -79,7 +53,8 @@ Basado en upwork-proposal-writing-skill (fahadqaseem, MIT), cold-message-writer
 5. Plantillas por situación en `references/plantillas.md`.
 
 ## Modo C · Seguimiento (no contestan)
-Nunca "solo subo esto". Da algo nuevo o una salida fácil ("si no es
+Si es el seguimiento de un caso de `Casos/`, actualiza su fila en
+`Casos/registro.md` (estado `seguimiento`). Nunca "solo subo esto". Da algo nuevo o una salida fácil ("si no es
 prioridad, dímelo y no insisto"). Secuencia en `references/plantillas.md`.
 
 ## Modo D · Revisar una propuesta suya

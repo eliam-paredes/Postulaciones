@@ -1,9 +1,9 @@
 # Eliam Paredes
-Junior Software Developer · TypeScript · React · C# · AI Integration
-Santo Domingo Este, Dominican Republic · eliamjesusparedes@gmail.com · +1 829 651 0720 · [linkedin.com/in/eliamparedes](https://linkedin.com/in/eliamparedes) · [github.com/MaravStress](https://github.com/MaravStress) · [maravstress.github.io](https://maravstress.github.io)
+Software Developer · TypeScript · React · C# · AI Integration
+Santo Domingo Este, Dominican Republic · eliamjesusparedes@gmail.com · +1 829 651 0720 · [linkedin.com/in/eliamparedes](https://linkedin.com/in/eliamparedes) · [github.com/eliam-paredes](https://github.com/eliam-paredes) · [eliam-paredes.github.io](https://eliam-paredes.github.io)
 
 ## Summary
-Software Engineering student (UNAPEC) who builds and ships personal software projects: a SaaS with AI, internal tools for a company, and Unity games. Top Rated on Upwork with 100% Job Success in 14 contracts.
+Software Engineering student (UNAPEC) who builds and ships personal software: React web apps with AI, a tool on the Unity Asset Store, internal tools for a company, and games. Top Rated on Upwork with 100% Job Success in 14 contracts.
 
 ## Work Experience
 ### Freelancer: Game Design, 3D and Video
@@ -15,9 +15,10 @@ Apr 2024 – Present
 ### Founder and Software Developer
 Marav Studios
 Nov 2020 – Present
-- Built Facturao, a personal SaaS product that uses the Gemini 2.5 Flash API.
-- Built automations for DaVinci Resolve that create images with AI (Nano Banana).
-- Publish TypeScript projects on GitHub: a library to use Three.js in React and a planning tool.
+- Built Planeao, a task management web app with React, TypeScript, Vite, and Firebase (front-end and back-end). [Planeao](https://eliam-paredes.github.io/planeao/#/)
+- Built CV_buildeao and Facturao, web apps that use the Gemini 2.5 Flash API.
+- Released Dialofy on the Unity Asset Store: a dialogue system in C# with a visual node editor.
+- Wrote Python scripts that automate repetitive DaVinci Resolve tasks with AI APIs (Veo 3, Nano Banana).
 - Released TrapNight, a solo game made in Unity and C#: more than 1,500 downloads and 4.7 stars on [Google Play](https://play.google.com/store/apps/details?id=com.MaravStress.Trapnight).
 
 ### Graphic and Web Designer
@@ -41,7 +42,7 @@ ITLA (Instituto Tecnológico de Las Américas)
 Sep 2020 – Apr 2024
 
 ## Skills
-- **Languages:** TypeScript, JavaScript, C#, PHP, SQL, HTML5, CSS3
-- **Front-end and back-end:** React, Three.js, Tailwind CSS, Node.js, Supabase, Firebase, MySQL
+- **Languages:** TypeScript, JavaScript, C#, Python, PHP, SQL, HTML5, CSS3
+- **Front-end and back-end:** React, Vite, Three.js, Tailwind CSS, Firebase, Node.js, Supabase, MySQL
 - **AI and tools:** AI APIs (Gemini 2.5 Flash, Nano Banana), Git, Azure DevOps, Jira, Scrum
 - **Spoken languages:** Spanish (native), English (B1, intermediate)

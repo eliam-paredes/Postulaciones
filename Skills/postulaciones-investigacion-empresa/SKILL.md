@@ -1,121 +1,81 @@
 ---
 name: postulaciones-investigacion-empresa
 description: >-
-  Investiga empresas tech: modelo de negocio, cultura, stack, competidores y
-  contexto estratégico relevante para entrevistas. Use cuando el usuario va a
-  postular o entrevistar en una empresa y necesita entender de qué va realmente,
-  quiénes son sus rivales, y qué está pasando en su sector.
+  Investiga con búsqueda web real la empresa de una oferta: qué hace, stack y
+  cultura, competidores, noticias recientes y qué importa para la entrevista,
+  con etiquetas [VERIFICADO] / [INFERIDO] / [SUPOSICIÓN]. Usar cuando el
+  usuario va a postular o entrevistar en una empresa. Es la Skill 2 del flujo
+  de postulación.
 ---
 
 # postulaciones-investigacion-empresa
 
-Investigar una empresa antes de una entrevista no es coleccionar datos triviales.
-Es construir una lectura estratégica que te permita hablar el mismo idioma que
-quien te evalúa y demostrar que entiendes su mundo mejor que otros candidatos.
+Objetivo: entender la empresa lo bastante para hablar su idioma en la carta y
+en la entrevista. Datos útiles, no trivia.
 
-## Input
+## Qué leer (no preguntes, lee)
 
-Pide al usuario:
+- `Casos/<slug>/oferta.md`: nombre de la empresa, web, país, puesto.
+- `Casos/<slug>/analisis.md` si existe: los pain points.
 
-- Nombre de la empresa.
-- URL de la oferta de empleo, website u otra fuente relevante.
-- (Opcional) Industria o país si no es obvio.
+Si la oferta no dice la empresa, búscala con frases literales de la oferta
+antes de preguntar.
 
-## Proceso
+## Búsquedas obligatorias (WebSearch / WebFetch)
 
-### 1. Identificar a la empresa realmente
+Haz al menos estas 5. Cambia `EMPRESA` por el nombre real:
 
-Va más allá del nombre. Determina:
+1. `EMPRESA` → web oficial. Abre la home y la página "about" o "nosotros".
+2. `EMPRESA careers` o `EMPRESA empleo` → página de empleo y otras vacantes
+   (dicen mucho del stack y del momento de la empresa).
+3. `EMPRESA LinkedIn` → tamaño, sede, sector.
+4. `EMPRESA noticias 2026` (o el año actual) → lanzamientos, rondas,
+   clientes, despidos.
+5. `EMPRESA Glassdoor` o `EMPRESA opiniones empleados` → patrón de reseñas.
 
-- **¿Qué vende exactamente?** Producto, servicio, licensing, subscription,
-  transaction fee. Sé específico, no digas "hacen software".
-- **¿A quién se lo venden?** B2B, B2C, B2B2C, enterprise, SMB, developer-led.
-- **¿Cómo generan ingresos?** Subscription SaaS, on-premise licensing, marketplace
-  take rate, ads, consulting services, hardware + software bundle.
-- **¿En qué etapa están?** Seed, Series A, scale-up, public enterprise, bootstrap/
-  profitable. Esto define urgencias diferentes.
+Si el puesto es técnico, añade `EMPRESA engineering blog` o `EMPRESA github`.
 
-### 2. Stack tecnológico y enfoque de ingeniería
+Si no aparece casi nada (empresa pequeña o nueva), dilo en la primera línea:
+"Poca presencia pública: análisis limitado". No rellenes con suposiciones.
 
-Infiere o investiga:
+## Etiquetas (obligatorias en cada dato)
 
-- Tecnologías probables según el producto y el rol mencionado.
-- Metodologías comunes en empresas de esa etapa/sector.
-- Señales culturales: "agile", "data-driven", "move fast", "enterprise-grade"
-  cada una comunica valores distintos sobre velocidad vs estabilidad.
+- **[VERIFICADO]**: lo leíste en una fuente. Pon la URL al lado.
+- **[INFERIDO]**: deducido de datos verificados (di de cuáles).
+- **[SUPOSICIÓN]**: lógica del sector, sin fuente. Úsala poco.
 
-Si puedes encontrar evidencias concretas (blog engineering, talks de devs,
-stack shared en Glassdoor, jobs postings pasados), agrégalas y cita la fuente.
-
-### 3. Contexto competitivo
-
-- **Competidores directos:** Quiénes compiten por el mismo cliente/producto.
-- **Competidores indirectos:** Soluciones alternativas que reemplazan su categoria.
-- **Posicionamiento:** En qué intentan diferenciarse (price, feature, UX, support,
-  ecosystem).
-
-### 4. Hitos recientes y tendencias del sector
-
-Busca o razona sobre:
-
-- Rondas de financiamiento recientes (si aplica).
-- Lanzamientos de producto, partnerships, adquisiciones.
-- Cambios regulatorios relevantes para su industria.
-- Tendencias macro que afectan su mercado (IA, cloud consolidation, security
-  mandates, etc.).
-
-Esto no es trivia. Es lo que te permite decir en una entrevista: "Vi que lanzaron
-X producto el mes pasado y considerando Y cambio en la industria, tiene sentido
-que necesiten alguien enfocándose en Z".
-
-### 5. Cultura e indicadores indirectos
-
-Sin vivir dentro de la empresa, usa señales públicas:
-
-- LinkedIn: antigüedad promedio de empleados, turnover visible.
-- Reviews (Glassdoor/Indeed): patrón recurrente en comentarios positivos Y
-  negativos (no tomes uno aislado).
-- Contenido público: tono de blog, participaciones en conference, contribuciones
-  open-source. Todo habla de prioridades reales, no las que pintan en la pared.
-
-## Output
+## Salida (5 secciones, resumidas)
 
 ```
-### INVESTIGACIÓN DE EMPRESA · [Nombre]
-[Fuente principal consultada]
+## Empresa · [Nombre]
 
-### 1. RESUMEN EJECUTIVO
-- **Qué hace:** [1-2 oraciones precisas sobre qué venden y a quién]
-- **Modelo de negocio:** [cómo generan ingresos]
-- **Etapa:** [seed / series / scale-up / public / bootstrap]
+**1. Qué hace**
+- Qué vende y a quién: ... [VERIFICADO] (url)
+- Cómo gana dinero: ... [INFERIDO]
+- Etapa y tamaño: ... [VERIFICADO] (url)
 
-### 2. ENFOQUE TECH Y CULTURA
-- **Stack probable / tecnologías asociadas:** [lista fundamentada]
-- **Metodología / filosofía de ingeniería:** [inferida de fuentes públicas]
-- **Señales culturales:** [turnover, contenido, reviews — con advertencia de
-  confiabilidad]
+**2. Tech y cultura**
+- Stack: ... [VERIFICADO] (url de la vacante o del blog)
+- Forma de trabajar: ... [INFERIDO]
+- Señales de cultura: ... [VERIFICADO] (url)
 
-### 3. CONTEXTO COMPETITIVO
-- **Competidores directos:** [nombres]
-- **Posicionamiento diferencial:** [qué intentan ganar]
-- **Competidores indirectos / amenazas:** [alternativas del mercado]
+**3. Competencia**
+- Competidores: ... [INFERIDO]
+- En qué se diferencian: ... [INFERIDO]
 
-### 4. HITOS RECIENTES Y TENDENCIAS
-- **[Evento/Hito]:** [fecha + relevancia para el puesto]
-- **[Tendencia de sector]:** [cómo impacta su negocio]
+**4. Noticias y tendencias**
+- [Mes AAAA]: [hecho] → [por qué importa para este puesto] [VERIFICADO] (url)
 
-### 5. LO QUE IMPORTA PARA LA ENTREVISTA
-[2-3 insights accionables. Esto es lo único que el candidato debería memorizar.]
-  Ejemplo: "Su dolor actual es escalar infraestructura tras la ronda Serie B.
-   Tu respuesta debe conectar con ese momento específico, no hablar de tecnología
-   en abstracto."
+**5. Lo que importa para la postulación**
+- [Insight accionable 1: qué problema o momento tiene la empresa]
+- [Insight accionable 2: qué beneficio de Eliam le importa más]
 ```
 
-## Reglas
+Máximo 2-3 líneas por sección. Guarda lo mismo en `Casos/<slug>/empresa.md`.
 
-- Siempre distingue entre hecho verificado, inferencia fundamentada y suposición.
-  Usa etiquetas: `[VERIFICADO]`, `[INFERIDO]`, `[SUPOSIÓN]`.
-- Si la empresa es muy nueva, privada o de nicho sin presencia digital, dilo
-  claramente y adapta el alcance del análisis. Mejor ser honesto que inventar.
-- No termines la investigación hasta tener al menos un insight accionable para
-  la entrevista. Datos sin utilidad no son investigación, son trivia.
+## Control antes de responder
+
+- [ ] Hiciste las búsquedas de verdad (no escribas desde memoria).
+- [ ] Cada [VERIFICADO] tiene su URL.
+- [ ] Ninguna cifra (empleados, ventas, rondas) sin fuente.
+- [ ] La sección 5 tiene al menos un insight que sirva para la carta o la respuesta.

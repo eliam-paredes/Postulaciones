@@ -3,12 +3,33 @@
     "allow": [
       "WebSearch",
       "WebFetch",
+      "Edit(/Casos/**)",
+      "Edit(/CV/**)",
+      "Edit(/Ventas/**)",
       "Bash(python .claude/skills/cv-pdf/scripts/generar_cv.py:*)",
       "Bash(python .claude/skills/cv-pdf/scripts/verificar_cv.py:*)",
       "Bash(python3 .claude/skills/cv-pdf/scripts/generar_cv.py:*)",
       "Bash(python3 .claude/skills/cv-pdf/scripts/verificar_cv.py:*)",
       "Bash(py .claude/skills/cv-pdf/scripts/generar_cv.py:*)",
-      "Bash(py .claude/skills/cv-pdf/scripts/verificar_cv.py:*)"
+      "Bash(py .claude/skills/cv-pdf/scripts/verificar_cv.py:*)",
+      "Bash(python Herramientas/puntuar_variantes.py:*)",
+      "Bash(python Herramientas/lint_texto.py:*)",
+      "Bash(py Herramientas/puntuar_variantes.py:*)",
+      "Bash(py Herramientas/lint_texto.py:*)"
+    ]
+  },
+  "hooks": {
+    "PostToolUse": [
+      {
+        "matcher": "Write|Edit",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "python Herramientas/lint_texto.py",
+            "timeout": 30
+          }
+        ]
+      }
     ]
   }
 }

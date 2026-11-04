@@ -6,90 +6,80 @@ body {
   font-family: Calibri, Carlito, "Segoe UI", Arial, Helvetica, sans-serif;
   font-size: 10.5pt;
   line-height: 1.24;
-  color: #111;
+  color: #4a4a4a;
   margin: 0;
   /* sin ligaduras: evita que 'fi' salga como un solo carácter en el ATS */
   font-variant-ligatures: none;
   font-feature-settings: "liga" 0, "clig" 0;
 }
-a { color: #111; text-decoration: none; }
-h1 { font-size: 20pt; margin: 0 0 2pt; letter-spacing: 0.2pt; }
-.titular { font-size: 11pt; margin: 0 0 2pt; color: #222; }
-.contacto { font-size: 9.5pt; margin: 0 0 6pt; color: #333; }
+a { color: #1a56db; text-decoration: underline; }
+h1 { font-size: 20pt; margin: 0 0 2pt; letter-spacing: 0.2pt; color: #111; text-align: center; }
+.titular { font-size: 11pt; margin: 0 0 2pt; color: #333; text-align: center; }
+.contacto { font-size: 9.5pt; margin: 0 0 6pt; color: #555; text-align: center; }
 h2 {
   font-size: 11.5pt;
   text-transform: uppercase;
   letter-spacing: 0.6pt;
-  margin: 7pt 0 3pt;
+  margin: 20pt 0 8pt;
   padding-bottom: 1.5pt;
   border-bottom: 0.75pt solid #444;
+  color: #111;
   break-after: avoid;
 }
-h3 { font-size: 10.8pt; margin: 4pt 0 0; break-after: avoid; }
-.org { margin: 0; font-weight: 600; color: #222; break-after: avoid; }
-.fechas { margin: 0 0 1pt; color: #555; font-size: 9.8pt; break-after: avoid; }
+/* Línea del puesto: puesto a la izquierda (destacado), empresa al lado, fecha a la derecha */
+.rol { display: flex; justify-content: space-between; align-items: baseline; gap: 8pt; margin: 10pt 0 3pt; break-after: avoid; }
+h3 { font-size: 11.5pt; font-weight: 700; margin: 0; color: #000; }
+.empresa { font-size: 10pt; font-weight: 400; color: #555; }
+.fechas { margin: 0; color: #555; font-size: 9.5pt; text-align: right; white-space: nowrap; }
 p { margin: 0 0 3pt; }
-ul { margin: 1pt 0 2pt; padding-left: 14pt; }
-li { margin: 0 0 1pt; }
-.bloque { break-inside: avoid; }
-
+ul { margin: 2pt 0 3pt; padding-left: 14pt; }
+li { margin: 0 0 2pt; }
+.bloque { break-inside: avoid; margin: 0 0 10pt; }
 </style></head><body><h1>Eliam Paredes</h1>
 <p class="titular">Creative Front-end Developer · React · Three.js · TypeScript · Blender</p>
-<p class="contacto">Santo Domingo Este, Dominican Republic · eliamjesusparedes@gmail.com · +1 829 651 0720 · <a href="https://linkedin.com/in/eliamparedes">linkedin.com/in/eliamparedes</a> · <a href="https://github.com/MaravStress">github.com/MaravStress</a> · <a href="https://maravstress.github.io">maravstress.github.io</a></p>
+<p class="contacto">Santo Domingo Este, Dominican Republic · eliamjesusparedes@gmail.com · +1 829 651 0720 · <a href="https://linkedin.com/in/eliamparedes">linkedin.com/in/eliamparedes</a> · <a href="https://github.com/eliam-paredes">github.com/eliam-paredes</a> · <a href="https://eliam-paredes.github.io">eliam-paredes.github.io</a></p>
 <h2>Summary</h2>
 <p>Front-end developer with a strong 3D background: creates models in Blender and brings them to the web with Three.js and React. Multimedia Technologist and Software Engineering student. Top Rated on Upwork with 100% Job Success in 14 contracts in 3D, video, and game design.</p>
 <h2>Work Experience</h2>
 <div class="bloque">
-<h3>Freelance 3D Artist</h3>
-<p class="org">Upwork</p>
-<p class="fechas">Apr 2024 – Present</p>
+<div class="rol"><h3>Freelance 3D Artist <span class="empresa">| Upwork</span></h3><p class="fechas">Apr 2024 – Present</p></div>
 <ul>
 <li>Modeled a 3D asset for a Three.js website; the client left a 5.0 review and praised the quality and communication.</li>
 <li>Produced 3D animations in Blender for YouTube channels, TikTok, and social media, with changes based on client feedback.</li>
 </ul>
 </div>
 <div class="bloque">
-<h3>Founder and Software Developer</h3>
-<p class="org">Marav Studios</p>
-<p class="fechas">Nov 2020 – Present</p>
+<div class="rol"><h3>Founder and Software Developer <span class="empresa">| Marav Studios</span></h3><p class="fechas">Nov 2020 – Present</p></div>
 <ul>
 <li>Building a TypeScript library that makes Three.js easier to use in React (EasyThreejsForReact, in progress).</li>
-<li>Built a personal website and a 3D portfolio in TypeScript, published on GitHub Pages.</li>
-<li>Built Facturao, a personal SaaS product that uses the Gemini 2.5 Flash API.</li>
+<li>Built web apps with React, TypeScript, and Vite, live on GitHub Pages: Planeao (task management with Firebase), CV_buildeao (resumes with Gemini 2.5 Flash), and Creador de contenido (social posts with AI). <a href="https://eliam-paredes.github.io/planeao/#/">Planeao</a></li>
+<li>Built a personal website and a 3D portfolio in TypeScript.</li>
 <li>Released TrapNight on Google Play: a solo rhythm game made in Unity and C# in one year, with more than 1,500 downloads and 4.7 stars.</li>
 </ul>
 </div>
 <div class="bloque">
-<h3>Graphic and Web Designer</h3>
-<p class="org">Promo Design DP Group</p>
-<p class="fechas">Nov 2020 – Apr 2024</p>
+<div class="rol"><h3>Graphic and Web Designer <span class="empresa">| Promo Design DP Group</span></h3><p class="fechas">Nov 2020 – Apr 2024</p></div>
 <ul>
 <li>Built the company website from scratch, maintained it for more than 3 years, and coded internal tools with XAMPP and Apps Script (JavaScript).</li>
 <li>Designed 3 or 4 textile print designs per day, with care for layout and color for printing.</li>
 </ul>
 </div>
 <div class="bloque">
-<h3>Game Developer and UI/UX Designer</h3>
-<p class="org">Reckers</p>
-<p class="fechas">Aug 2019 – Nov 2020</p>
+<div class="rol"><h3>Game Developer and UI/UX Designer <span class="empresa">| Reckers</span></h3><p class="fechas">Aug 2019 – Nov 2020</p></div>
 <ul>
 <li>Designed the UX, wireframes, and UI animations of the game Reck, and coded it in Unity and C# in a team of 4.</li>
 </ul>
 </div>
 <h2>Education</h2>
 <div class="bloque">
-<h3>Software Engineering</h3>
-<p class="org">Universidad APEC (UNAPEC)</p>
-<p class="fechas">Apr 2024 – Present</p>
+<div class="rol"><h3>Software Engineering <span class="empresa">| Universidad APEC (UNAPEC)</span></h3><p class="fechas">Apr 2024 – Present</p></div>
 </div>
 <div class="bloque">
-<h3>Multimedia Technologist</h3>
-<p class="org">ITLA (Instituto Tecnológico de Las Américas)</p>
-<p class="fechas">Sep 2020 – Apr 2024</p>
+<div class="rol"><h3>Multimedia Technologist <span class="empresa">| ITLA (Instituto Tecnológico de Las Américas)</span></h3><p class="fechas">Sep 2020 – Apr 2024</p></div>
 </div>
 <h2>Skills</h2>
 <ul>
-<li><strong>Front-end:</strong> React, TypeScript, JavaScript, HTML5, CSS3, Tailwind CSS, Bootstrap</li>
+<li><strong>Front-end:</strong> React, TypeScript, JavaScript, Vite, HTML5, CSS3, Tailwind CSS, Bootstrap</li>
 <li><strong>3D web:</strong> Three.js, 3D models for the web, Blender, Substance 3D Painter</li>
 <li><strong>Design:</strong> Figma, wireframes, UI animation, Illustrator, Affinity</li>
 <li><strong>Back-end and tools:</strong> Node.js, PHP, Supabase, Firebase, MySQL, Git, GitHub, Jira, Scrum</li>

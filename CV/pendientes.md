@@ -12,11 +12,11 @@ más que nada: "unos 15 clientes" sirve.
    mudanza: no
 
 2. Enlaces: 
-   ¿GitHub? [MaravStress (Eliam Paredes) · GitHub](https://github.com/MaravStress)
+   ¿GitHub? [eliam-paredes (Eliam Paredes) · GitHub](https://github.com/eliam-paredes)
    ¿Perfil de Upwork? https://www.upwork.com/freelancers/~01297e972c464635aa?mp_source=share
    ¿demo reel 3D y edicion de video? [Demo reel 2026 - YouTube](https://youtu.be/In5x3WFofhs?si=FQUCa3H18WSsjWnE)
    ¿Behance? [Eliam Paredes - 3D art in Dominican Republic :: Behance](https://www.behance.net/eliam_paredes)
-   ¿pagina web? https://maravstress.github.io
+   ¿pagina web? https://eliam-paredes.github.io
 
 3. UNAPEC: ¿en qué cuatrimestre vas y cuándo te gradúas aprox.?
    estoy en el 7no cuatri, aunque me falta 2 años todavia

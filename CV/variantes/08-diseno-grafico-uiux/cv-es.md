@@ -1,6 +1,6 @@
 # Eliam Paredes
 Diseñador Gráfico y UI/UX · Illustrator · Affinity · Figma · Branding
-Santo Domingo Este, RD · eliamjesusparedes@gmail.com · +1 829 651 0720 · [behance.net/eliam_paredes](https://www.behance.net/eliam_paredes) · [linkedin.com/in/eliamparedes](https://linkedin.com/in/eliamparedes) · [maravstress.github.io](https://maravstress.github.io)
+Santo Domingo Este, RD · eliamjesusparedes@gmail.com · +1 829 651 0720 · [behance.net/eliam_paredes](https://www.behance.net/eliam_paredes) · [linkedin.com/in/eliamparedes](https://linkedin.com/in/eliamparedes) · [eliam-paredes.github.io](https://eliam-paredes.github.io)
 
 ## Resumen
 Diseñador gráfico con más de 3 años de producción diaria para estampación textil (3 o 4 piezas al día) y experiencia en UX y UI de videojuegos. Tecnólogo en Multimedia (ITLA) con proyecto final de rediseño de marca. Sabe programar, así que diseña interfaces que se pueden construir.
@@ -17,8 +17,7 @@ Abr 2024 – Actualidad
 Marav Studios
 Nov 2020 – Actualidad
 - Diseñé la interfaz, el arte y la experiencia de TrapNight, juego de ritmo con más de 1.500 descargas y 4,7 estrellas en Google Play.
-- Diseñé y construí un sitio web personal y portafolio en TypeScript.
-
+- Diseñé y construí la interfaz de apps web propias en React (Planeao, CV_buildeao) y de mi sitio web personal.
 ### Diseñador Gráfico y Web
 Promo Design DP Group
 Nov 2020 – Abr 2024

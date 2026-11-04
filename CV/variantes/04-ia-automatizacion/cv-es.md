@@ -1,9 +1,9 @@
 # Eliam Paredes
 Desarrollador de Integraciones de IA · Gemini · Automatización · TypeScript
-Santo Domingo Este, RD · eliamjesusparedes@gmail.com · +1 829 651 0720 · [linkedin.com/in/eliamparedes](https://linkedin.com/in/eliamparedes) · [github.com/MaravStress](https://github.com/MaravStress) · [maravstress.github.io](https://maravstress.github.io)
+Santo Domingo Este, RD · eliamjesusparedes@gmail.com · +1 829 651 0720 · [linkedin.com/in/eliamparedes](https://linkedin.com/in/eliamparedes) · [github.com/eliam-paredes](https://github.com/eliam-paredes) · [eliam-paredes.github.io](https://eliam-paredes.github.io)
 
 ## Resumen
-Desarrollador que integra IA generativa en productos y flujos de trabajo de contenido. Construyó un SaaS con Gemini 2.5 Flash y automatizaciones para DaVinci Resolve con Nano Banana. Conoce el lado del creador: 14 contratos de video y animación 3D en Upwork, con 100% de éxito y badge Top Rated.
+Desarrollador que integra IA generativa en productos y flujos de trabajo de contenido. Construyó apps web con Gemini 2.5 Flash y scripts en Python que automatizan DaVinci Resolve con Veo 3 y Nano Banana. Conoce el lado del creador: 14 contratos de video y animación 3D en Upwork, con 100% de éxito y badge Top Rated.
 
 ## Experiencia
 ### Freelancer: video, animación 3D e IA
@@ -16,19 +16,16 @@ Abr 2024 – Actualidad
 ### Fundador y Desarrollador de Software
 Marav Studios
 Nov 2020 – Actualidad
-- Creo software para empresas de creación de contenido bajo la marca Marav Studios.
+- Construí [CV_buildeao](https://eliam-paredes.github.io/CV_buildeao/) (React, TypeScript, Gemini 2.5 Flash), que convierte los datos del usuario en un CV estructurado.
+- Construí Creador de contenido, SaaS en React que crea publicaciones para redes con IA.
 - Construí Facturao, un SaaS propio que integra la API de Gemini 2.5 Flash.
-- Desarrollé automatizaciones para DaVinci Resolve que generan imágenes con Nano Banana dentro del flujo de edición.
-- Publico proyectos en TypeScript en GitHub, como una herramienta de planificación y una librería para Three.js en React.
-- Publiqué TrapNight en Google Play (Unity y C#), con más de 1.500 descargas y 4,7 estrellas.
+- Programé scripts en Python que automatizan tareas repetitivas de DaVinci Resolve con Veo 3, Nano Banana y Gemini. [GitHub](https://github.com/eliam-paredes/Script-Davinci-Propietario)
 
 ### Diseñador Gráfico y Web
 Promo Design DP Group
 Nov 2020 – Abr 2024
 - Automaticé hojas de Google Sheets con funciones en JavaScript (Apps Script) para el trabajo diario del equipo.
 - Programé herramientas web internas en XAMPP y creé desde cero el sitio web de la empresa.
-- Gestioné tareas en Jira y diseñé 3 o 4 piezas al día para estampación textil.
-
 ### Game Developer y Diseñador UI/UX
 Reckers
 Ago 2019 – Nov 2020
@@ -45,8 +42,8 @@ Sep 2020 – Abr 2024
 
 ## Habilidades
 - **IA generativa:** integración de APIs, Gemini 2.5 Flash, Nano Banana, Veo 3, ElevenLabs
-- **Automatización:** Google Apps Script, scripts para DaVinci Resolve
-- **Lenguajes:** TypeScript, JavaScript, PHP, C#, SQL
-- **Desarrollo:** React, Node.js, Supabase, Firebase, MySQL
+- **Automatización:** Python, Google Apps Script, scripts para DaVinci Resolve
+- **Lenguajes:** TypeScript, JavaScript, Python, PHP, C#, SQL
+- **Desarrollo:** React, Vite, Firebase, Node.js, Supabase, MySQL
 - **Herramientas:** Git, GitHub, Azure DevOps, Jira, DaVinci Resolve, Blender
 - **Idiomas:** español (nativo), inglés (B1, intermedio)

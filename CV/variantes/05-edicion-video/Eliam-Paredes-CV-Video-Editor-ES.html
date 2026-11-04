@@ -6,33 +6,35 @@ body {
   font-family: Calibri, Carlito, "Segoe UI", Arial, Helvetica, sans-serif;
   font-size: 10.5pt;
   line-height: 1.24;
-  color: #111;
+  color: #4a4a4a;
   margin: 0;
   /* sin ligaduras: evita que 'fi' salga como un solo carácter en el ATS */
   font-variant-ligatures: none;
   font-feature-settings: "liga" 0, "clig" 0;
 }
-a { color: #111; text-decoration: none; }
-h1 { font-size: 20pt; margin: 0 0 2pt; letter-spacing: 0.2pt; }
-.titular { font-size: 11pt; margin: 0 0 2pt; color: #222; }
-.contacto { font-size: 9.5pt; margin: 0 0 6pt; color: #333; }
+a { color: #1a56db; text-decoration: underline; }
+h1 { font-size: 20pt; margin: 0 0 2pt; letter-spacing: 0.2pt; color: #111; text-align: center; }
+.titular { font-size: 11pt; margin: 0 0 2pt; color: #333; text-align: center; }
+.contacto { font-size: 9.5pt; margin: 0 0 6pt; color: #555; text-align: center; }
 h2 {
   font-size: 11.5pt;
   text-transform: uppercase;
   letter-spacing: 0.6pt;
-  margin: 7pt 0 3pt;
+  margin: 20pt 0 8pt;
   padding-bottom: 1.5pt;
   border-bottom: 0.75pt solid #444;
+  color: #111;
   break-after: avoid;
 }
-h3 { font-size: 10.8pt; margin: 4pt 0 0; break-after: avoid; }
-.org { margin: 0; font-weight: 600; color: #222; break-after: avoid; }
-.fechas { margin: 0 0 1pt; color: #555; font-size: 9.8pt; break-after: avoid; }
+/* Línea del puesto: puesto a la izquierda (destacado), empresa al lado, fecha a la derecha */
+.rol { display: flex; justify-content: space-between; align-items: baseline; gap: 8pt; margin: 10pt 0 3pt; break-after: avoid; }
+h3 { font-size: 11.5pt; font-weight: 700; margin: 0; color: #000; }
+.empresa { font-size: 10pt; font-weight: 400; color: #555; }
+.fechas { margin: 0; color: #555; font-size: 9.5pt; text-align: right; white-space: nowrap; }
 p { margin: 0 0 3pt; }
-ul { margin: 1pt 0 2pt; padding-left: 14pt; }
-li { margin: 0 0 1pt; }
-.bloque { break-inside: avoid; }
-
+ul { margin: 2pt 0 3pt; padding-left: 14pt; }
+li { margin: 0 0 2pt; }
+.bloque { break-inside: avoid; margin: 0 0 10pt; }
 </style></head><body><h1>Eliam Paredes</h1>
 <p class="titular">Editor de Video · DaVinci Resolve · YouTube y Shorts · Motion Graphics</p>
 <p class="contacto">Santo Domingo Este, RD · eliamjesusparedes@gmail.com · +1 829 651 0720 · <a href="https://youtu.be/In5x3WFofhs">Demo reel</a> · <a href="https://linkedin.com/in/eliamparedes">linkedin.com/in/eliamparedes</a> · <a href="https://www.behance.net/eliam_paredes">behance.net/eliam_paredes</a></p>
@@ -40,9 +42,7 @@ li { margin: 0 0 1pt; }
 <p>Editor de video freelance Top Rated en Upwork, con 100% de éxito y 50% de clientes que repiten. Edita videos largos, shorts y miniaturas para YouTube, y suma animación 3D, motion tracking y composición en Fusion.</p>
 <h2>Experiencia</h2>
 <div class="bloque">
-<h3>Editor de Video y Animador 3D Freelance</h3>
-<p class="org">Upwork</p>
-<p class="fechas">Abr 2024 – Actualidad</p>
+<div class="rol"><h3>Editor de Video y Animador 3D Freelance <span class="empresa">| Upwork</span></h3><p class="fechas">Abr 2024 – Actualidad</p></div>
 <ul>
 <li>Edité video y diseño gráfico durante 9 meses (267 horas) para un cliente de habla hispana, con reseña de 5.0.</li>
 <li>Edité para un canal de YouTube en un contrato de 1.789 USD con reseña de 5.0: "Always professional, executes on feedback, great communication."</li>
@@ -51,40 +51,31 @@ li { margin: 0 0 1pt; }
 </ul>
 </div>
 <div class="bloque">
-<h3>Fundador y Creador de Software y Videojuegos</h3>
-<p class="org">Marav Studios</p>
-<p class="fechas">Nov 2020 – Actualidad</p>
+<div class="rol"><h3>Fundador y Creador de Software y Videojuegos <span class="empresa">| Marav Studios</span></h3><p class="fechas">Nov 2020 – Actualidad</p></div>
 <ul>
-<li>Desarrollé automatizaciones para DaVinci Resolve que generan imágenes con IA (Nano Banana) dentro del flujo de edición.</li>
+<li>Programé scripts en Python que automatizan tareas repetitivas de DaVinci Resolve para acortar la post-producción, con IA (Veo 3, Nano Banana).</li>
+<li>Creé cortometrajes 3D propios (Cien años de soledad, KlouFrens) con edición y motion tracking en DaVinci Resolve y Blender. <a href="https://www.behance.net/eliam_paredes">Behance</a></li>
 <li>Publiqué TrapNight en Google Play (desarrollo, arte y marketing): más de 1.500 descargas y 4,7 estrellas.</li>
 </ul>
 </div>
 <div class="bloque">
-<h3>Diseñador Gráfico y Web</h3>
-<p class="org">Promo Design DP Group</p>
-<p class="fechas">Nov 2020 – Abr 2024</p>
+<div class="rol"><h3>Diseñador Gráfico y Web <span class="empresa">| Promo Design DP Group</span></h3><p class="fechas">Nov 2020 – Abr 2024</p></div>
 <ul>
 <li>Diseñé 3 o 4 piezas al día para estampación textil y creé desde cero el sitio web de la empresa.</li>
 </ul>
 </div>
 <div class="bloque">
-<h3>Game Developer y Diseñador UI/UX</h3>
-<p class="org">Reckers</p>
-<p class="fechas">Ago 2019 – Nov 2020</p>
+<div class="rol"><h3>Game Developer y Diseñador UI/UX <span class="empresa">| Reckers</span></h3><p class="fechas">Ago 2019 – Nov 2020</p></div>
 <ul>
 <li>Diseñé las animaciones de la UI del juego Reck y compuse 2 de sus 3 canciones, en un equipo de 4 personas.</li>
 </ul>
 </div>
 <h2>Educación</h2>
 <div class="bloque">
-<h3>Ingeniería de Software</h3>
-<p class="org">Universidad APEC (UNAPEC)</p>
-<p class="fechas">Abr 2024 – Actualidad</p>
+<div class="rol"><h3>Ingeniería de Software <span class="empresa">| Universidad APEC (UNAPEC)</span></h3><p class="fechas">Abr 2024 – Actualidad</p></div>
 </div>
 <div class="bloque">
-<h3>Tecnólogo en Multimedia</h3>
-<p class="org">ITLA (Instituto Tecnológico de Las Américas)</p>
-<p class="fechas">Sep 2020 – Abr 2024</p>
+<div class="rol"><h3>Tecnólogo en Multimedia <span class="empresa">| ITLA (Instituto Tecnológico de Las Américas)</span></h3><p class="fechas">Sep 2020 – Abr 2024</p></div>
 </div>
 <h2>Habilidades</h2>
 <ul>

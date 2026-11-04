@@ -17,15 +17,14 @@ Apr 2024 – Present
 ### Founder and Game Developer
 Marav Studios
 Nov 2020 – Present
-- Built automations for DaVinci Resolve that create images with AI (Nano Banana) inside the editing workflow.
+- Animated personal 3D short films in Blender: One Hundred Years of Solitude (Eevee, character design) and KlouFrens (motion tracking and motion graphics). [Behance](https://www.behance.net/eliam_paredes)
+- Wrote Python scripts that automate repetitive DaVinci Resolve tasks with AI (Veo 3, Nano Banana).
 - Created alone the art, animation, and code of TrapNight, a rhythm game with more than 1,500 downloads and 4.7 stars on Google Play.
 
 ### Graphic and Web Designer
 Promo Design DP Group
 Nov 2020 – Apr 2024
 - Designed 3 or 4 textile print designs per day based on each client's request.
-- Built the company website from scratch and maintained it for more than 3 years.
-
 ### Game Developer and UI/UX Designer
 Reckers
 Aug 2019 – Nov 2020

@@ -17,7 +17,8 @@ Abr 2024 – Actualidad
 ### Fundador y Creador de Software y Videojuegos
 Marav Studios
 Nov 2020 – Actualidad
-- Desarrollé automatizaciones para DaVinci Resolve que generan imágenes con IA (Nano Banana) dentro del flujo de edición.
+- Programé scripts en Python que automatizan tareas repetitivas de DaVinci Resolve para acortar la post-producción, con IA (Veo 3, Nano Banana).
+- Creé cortometrajes 3D propios (Cien años de soledad, KlouFrens) con edición y motion tracking en DaVinci Resolve y Blender. [Behance](https://www.behance.net/eliam_paredes)
 - Publiqué TrapNight en Google Play (desarrollo, arte y marketing): más de 1.500 descargas y 4,7 estrellas.
 
 ### Diseñador Gráfico y Web

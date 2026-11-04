@@ -1,42 +1,30 @@
 Eliam Paredes
 Diseñador Gráfico y UI/UX · Illustrator · Affinity · Figma · Branding
 Santo Domingo Este, RD · eliamjesusparedes@gmail.com · +1 829 651 0720 · behance.net/eliam_paredes ·
-linkedin.com/in/eliamparedes · maravstress.github.io
+linkedin.com/in/eliamparedes · eliam-paredes.github.io
 RESUMEN
 Diseñador gráfico con más de 3 años de producción diaria para estampación textil (3 o 4 piezas al día) y experiencia en UX y
 UI de videojuegos. Tecnólogo en Multimedia (ITLA) con proyecto final de rediseño de marca. Sabe programar, así que
 diseña interfaces que se pueden construir.
 EXPERIENCIA
-Diseñador Gráfico y Editor de Video Freelance
-Upwork
-Abr 2024 – Actualidad
+Diseñador Gráfico y Editor de Video Freelance | Upwork Abr 2024 – Actualidad
 Hice diseño gráfico y edición de video durante 9 meses (267 horas) para un cliente de habla hispana, con reseña de 5.0.
 Diseño miniaturas y piezas para canales de YouTube y redes sociales.
 Mantengo 100% Job Success y badge Top Rated en 14 contratos, con 50% de clientes que repiten.
-Fundador y Game Developer
-Marav Studios
-Nov 2020 – Actualidad
+Fundador y Game Developer | Marav Studios Nov 2020 – Actualidad
 Diseñé la interfaz, el arte y la experiencia de TrapNight, juego de ritmo con más de 1.500 descargas y 4,7 estrellas en
 Google Play.
-Diseñé y construí un sitio web personal y portafolio en TypeScript.
-Diseñador Gráfico y Web
-Promo Design DP Group
-Nov 2020 – Abr 2024
+Diseñé y construí la interfaz de apps web propias en React (Planeao, CV_buildeao) y de mi sitio web personal.
+Diseñador Gráfico y Web | Promo Design DP Group Nov 2020 – Abr 2024
 Diseñé 3 o 4 piezas al día para estampación textil a partir del pedido de cada cliente, en Illustrator y Affinity, y preparé
 los archivos para impresión.
 Diseñé y construí desde cero el sitio web de la empresa y organicé el trabajo con Jira y Google Sheets automatizadas.
-Game Developer y Diseñador UI/UX
-Reckers
-Ago 2019 – Nov 2020
+Game Developer y Diseñador UI/UX | Reckers Ago 2019 – Nov 2020
 Diseñé toda la UX, los wireframes y las animaciones de la UI del juego de cartas Reck, en un equipo de 4 personas.
 Programé el juego en Unity y C#, lo que me permitió probar cada pantalla en el producto real.
 EDUCACIÓN
-Ingeniería de Software
-Universidad APEC (UNAPEC)
-Abr 2024 – Actualidad
-Tecnólogo en Multimedia
-ITLA (Instituto Tecnológico de Las Américas)
-Sep 2020 – Abr 2024
+Ingeniería de Software | Universidad APEC (UNAPEC) Abr 2024 – Actualidad
+Tecnólogo en Multimedia | ITLA (Instituto Tecnológico de Las Américas) Sep 2020 – Abr 2024
 Proyecto final: rediseño de marca para la empresa Ñame Ñame SRL.
 HABILIDADES
 Diseño gráfico: Adobe Illustrator, Photoshop, Affinity Designer, Affinity Photo

@@ -1,109 +1,88 @@
 ---
 name: postulaciones-analisis-requerimientos
 description: >-
-  Analiza ofertas de empleo tech: prioriza requerimientos críticos, mapea pain
-  points implícitos y conecta fortalezas del candidato con necesidades reales de
-  la empresa. Use cuando el usuario pega una oferta de trabajo y quiere entender
-  qué importa realmente, qué problemas ocultos resuelve esa vacante y cómo
-  posicionarse como el candidato ideal.
+  Analiza una oferta de empleo para Eliam: must-have, nice-to-have, pain
+  points, mapa contra su CV (CV/cv_total.md) y si es sospechosa de estafa.
+  Usar cuando el usuario pega una oferta de trabajo (texto, archivo o URL) o
+  pide "analiza esta oferta". Es la Skill 1 del flujo de postulación.
 ---
 
 # postulaciones-analisis-requerimientos
 
-Analiza una oferta de empleo desde la perspectiva de quien la escribe y de quien
-la resuelve. No se trata de listar requisitos como un copiar-y-pegar, sino de
-descifrar qué está pasando realmente detrás de esas líneas y por qué la empresa
-no lo dice explícitamente.
+Objetivo: decir en pocas líneas qué necesita de verdad la empresa y qué tiene
+Eliam para cubrirlo. Nada más.
 
-## Input
+## Qué leer (no preguntes, lee)
 
-Pide al usuario:
+1. `Casos/<slug>/oferta.md`: la oferta literal.
+2. `CV/cv_total.md`: la única fuente de la experiencia de Eliam.
 
-- La descripción completa de la oferta laboral (texto pegado o archivo).
-- (Opcional) El CV o resumen profesional del candidato para cruce directo.
+Solo pregunta al usuario si no hay oferta. Si falta un dato del candidato,
+márcalo como hueco y sigue.
 
-Si solo hay la oferta, trabaja con eso e indica dónde falta información del
-candidato.
+## Pasos
 
-## Proceso
+1. **Must-have (máx. 5).** Lo que haría descartar al candidato si falta. Pistas:
+   "requerido", "imprescindible", "must", "X+ años", lo que se repite, lo que
+   aparece en el título del puesto. Si la oferta lista 15 "requisitos", elige
+   los 5 que más se repiten o que van primero.
+2. **Nice-to-have.** "Deseable", "plus", "valorable", "bonus", "nice to have".
+3. **Pain points.** Busca frases que revelan un problema. Cita la frase literal.
 
-### 1. Desglosar los requerimientos sin repetir la oferta
+   | Frase en la oferta | Problema real probable |
+   |---|---|
+   | "Equipo en crecimiento rápido" | Mucho trabajo y poco proceso |
+   | "Desde cero" | No hay base; deuda técnica previa |
+   | "Dinámico / alta presión" | Plazos cortos o prioridades que cambian |
+   | "Autónomo / proactivo" | Poca guía de un senior |
+   | "Varias tecnologías / multitarea" | Una persona cubre varios roles |
+   | "Comunicación con clientes" | Han tenido problemas de entregas o expectativas |
 
-Lee la descripción y clasifica cada requisito en:
+   No inventes pain points. Si no hay ninguno claro, escribe "No se detectan
+   pain points claros en el texto".
+4. **Mapa candidato → necesidad.** Para cada must-have (y los nice-to-have
+   importantes), busca en `cv_total.md` la mejor evidencia: proyecto, rol o
+   métrica. Usa solo lo que está escrito ahí. Estado:
+   - **Cumple**: hay proyecto o rol real que lo demuestra.
+   - **Parcial**: solo aparece en habilidades, o la evidencia es floja.
+   - **Hueco**: no aparece. Nunca lo tapes.
+5. **¿Estafa?** "Sí" si hay 2 o más de estas señales: piden pago o compra de
+   equipo, piden datos bancarios o documentos antes de entrevistar, sueldo
+   muy alto para el nivel sin explicación, correo personal (gmail, hotmail)
+   que dice ser de una empresa grande, no existe la empresa en la web,
+   contratan solo por chat (Telegram, WhatsApp). Si no, "No".
 
-- **Hard Skills**: tecnologías, frameworks, herramientas, metodologías.
-- **Soft Skills**: comunicación, liderazgo, autonomía, resolución de conflictos.
-- **Requerimientos implícitos**: lo que da por sentado pero no dice (ej: "trabajo
-  autónomo" puede significar "nadie va a supervisarte").
-
-### 2. Priorizar: cuáles son indispables y cuáles son deseables
-
-No todo lo escrito tiene el mismo peso. Clasifica en tres niveles:
-
-| nivel | criterio | ejemplo |
-| --- | --- | --- |
-| **Must-have** | Si no lo tienen, descartan al candidato de inmediato | "5+ años con React" |
-| **Nice-to-have** | Suman puntos pero no bloquean | "Experiencia con GraphQL" |
-| **Red flag indirecto** | Algo que revela un problema real | "Buscamos growth hacker" para un rol de mantenimiento |
-
-Limita los must-have a 3-5 máximo. Si la oferta enumera 20 cosas como
-indispensables, el que redactó no sabe qué necesita ni él mismo — y eso es
-información útil también.
-
-### 3. Detectar Pain Points (lo que NO dicen directamente)
-
-Los pain points están embebidos en el lenguaje. Busca patrones como:
-
-| frase en la oferta | dolor probable |
-| --- | --- |
-| "Equipo en crecimiento rápido" | Todo cae sobre una persona; falta proceso |
-| "Desde cero" | Inconsistencia técnica previa; deuda acumulada |
-| "Alta presión / dinámico" | Plazos irreales o giros constantes de prioridad |
-| "Autónomo / proactivo" | Ausencia de mentoría o guía senior |
-| "Múltiples stack technologies" | Fragmentación, poco foco |
-
-Para cada pain point identificado, escribe qué problema operativo real podría
-estar resolviendo la empresa con esta contratación. Sé específico, no genérico.
-
-### 4. Mapear fortalezas del candidato contra lo crítico
-
-Si el CV está disponible, cruza cada must-have con la experiencia del candidato.
-Para cada match, redacta una línea de conexión directa entre lo que necesitan y
-lo que el candidato ya resolvió. Si falta algún must-have, sugiere cómo mitigarlo
-(experiencia transferible, proyectos personales, enfoque diferente).
-
-## Output
+## Salida (exacta, sin secciones extra)
 
 ```
-### ANÁLISIS DE OFERTA · [Título del puesto]
-[Empresa] · [Fecha]
+## Análisis de requerimientos
 
-### 1. REQUERIMIENTOS CRÍTICOS (Must-Have)
-1. **[Requerimiento]** — Por qué es indispensable: [razón concreta]
-2. **[Requerimiento]** — Por qué es indispensable: [razón concreta]
-3. **[Requerimiento]** — Por qué es indispensable: [razón concreta]
+**Must-have**
+1. [requisito] ([por qué en 4-8 palabras])
+2. ...
 
-### 2. Nice-to-Have (diferenciadores)
-- **[Habilidad]** — Su valor si tienes experiencia.
-- **[Habilidad]** — ...
+**Nice-to-have**
+- [requisito], [requisito], [requisito]
 
-### 3. PAIN POINTS DETECTADOS (Lo que probablemente necesitan resolver)
-- **[Dolor 1]** — Frase clave de la oferta que lo revela: "[cita textual]"
-  Qué problema opera: [descripción del problema real subyacente]
-- **[Dolor 2]** — ...
+**Pain points**
+- "[frase literal]" → [problema real, una línea]
 
-### 4. MAPA CANDIDATO → NECESIDAD
-[Vacío si no se proporcionó CV]
+**Mapa candidato → necesidad**
+| Necesidad | Evidencia de Eliam | Estado |
+|---|---|---|
+| React | Planeao y CV_buildeao (React, TypeScript, Vite) | Cumple |
+| GraphQL | - | Hueco |
 
-### 5. ALERTAS
-- Lo que parece bueno pero es señal de problema (si aplica).
-- Lo que falta en la descripción y debería investigarse antes de la entrevista.
+**¿Sospechoso de estafa?** No
 ```
 
-## Reglas
+Guarda lo mismo en `Casos/<slug>/analisis.md`.
 
-- Nunca inventes pain points que no estén respaldados por evidencia textual de la
-  oferta. Dilo abiertamente si no detectas ninguno claro.
-- Si la oferta es ambigua o genérica (copiada de un portal), indícalo y explica
-  qué información adicional se necesitaría para un análisis real.
-- Señala siempre cuándo algo es inferencia tuya vs dato directo del texto.
+## Control antes de responder
+
+- [ ] Máximo 5 must-have, una línea cada uno.
+- [ ] Cada pain point cita una frase que existe en la oferta.
+- [ ] Cada evidencia del mapa existe en `cv_total.md` (proyecto, rol o métrica real).
+- [ ] Los huecos están marcados como "Hueco", no escondidos.
+- [ ] La línea de estafa dice solo "Sí" o "No", sin explicación.
+- [ ] Sin sección de "Alertas", sin introducción ni cierre.

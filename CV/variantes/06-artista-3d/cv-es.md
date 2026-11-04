@@ -12,15 +12,13 @@ Abr 2024 – Actualidad
 - Animé escenas 3D en Blender para 6 clientes: canales de true crime, TikTok, redes sociales y animación con IA.
 - Un cliente de animación 3D dejó 5.0: "creative, detail-oriented, and always takes feedback into consideration".
 - Modelé un asset 3D para un sitio web en Three.js, con reseña de 5.0 ("Committed to Quality", "Detail Oriented").
-- Creé simulaciones en Blender y usé motion tracking para integrar 3D en video real.
-- Mantengo 100% Job Success y badge Top Rated, con 50% de clientes que repiten.
-
+- Creé simulaciones en Blender y usé motion tracking para integrar 3D en video.
 ### Fundador y Game Developer
 Marav Studios
 Nov 2020 – Actualidad
 - Creé todo el arte, el diseño y el código de TrapNight, juego de ritmo en Unity con más de 1.500 descargas y 4,7 estrellas en Google Play.
-- Publiqué 12 juegos en itch.io, la mayoría hechos en game jams.
-- Construí un portafolio 3D web para mostrar modelos propios.
+- Modelé en Blender y Maya y texturicé con PBR en Substance 3D Painter una versión degradada del castillo de Bowser. [Behance](https://www.behance.net/eliam_paredes)
+- Creé cortometrajes e ilustraciones 3D con diseño de personajes (Cien años de soledad, Una velita, Grease Pencil).
 
 ### Diseñador Gráfico y Web
 Promo Design DP Group
@@ -43,9 +41,8 @@ Sep 2020 – Abr 2024
 
 ## Habilidades
 - **3D:** Blender, Maya, Adobe Substance 3D Painter, Geometry Nodes
-- **Áreas:** modelado, texturizado, animación 3D, simulaciones, render, motion tracking
+- **Áreas:** modelado, texturizado PBR, diseño de personajes, animación 3D, simulaciones, render (Eevee, Cycles), motion tracking
 - **Motores y web:** Unity, Three.js
 - **2D:** Blender Grease Pencil, Adobe Illustrator, Photoshop, Affinity
 - **Video:** DaVinci Resolve, Fusion
-- **Programación:** C#, TypeScript, JavaScript
 - **Idiomas:** español (nativo), inglés (B1, intermedio)

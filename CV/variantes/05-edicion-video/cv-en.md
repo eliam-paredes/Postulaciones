@@ -17,7 +17,8 @@ Apr 2024 – Present
 ### Founder, Software and Game Creator
 Marav Studios
 Nov 2020 – Present
-- Built automations for DaVinci Resolve that create images with AI (Nano Banana) inside the editing workflow.
+- Wrote Python scripts that automate repetitive DaVinci Resolve tasks to speed up post-production, with AI (Veo 3, Nano Banana).
+- Created personal 3D short films (One Hundred Years of Solitude, KlouFrens) with editing and motion tracking in DaVinci Resolve and Blender. [Behance](https://www.behance.net/eliam_paredes)
 - Released TrapNight on Google Play (development, art, and marketing): more than 1,500 downloads and 4.7 stars.
 
 ### Graphic and Web Designer

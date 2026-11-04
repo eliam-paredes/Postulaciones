@@ -13,14 +13,12 @@ Apr 2024 – Present
 - A 3D animation client left a 5.0 review: "creative, detail-oriented, and always takes feedback into consideration".
 - Modeled a 3D asset for a Three.js website, with a 5.0 review ("Committed to Quality", "Detail Oriented").
 - Created simulations in Blender and used motion tracking to add 3D to real video.
-- Keep 100% Job Success and Top Rated status, with 50% repeat clients.
-
 ### Founder and Game Developer
 Marav Studios
 Nov 2020 – Present
 - Created all the art, design, and code of TrapNight, a rhythm game in Unity with more than 1,500 downloads and 4.7 stars on Google Play.
-- Released 12 games on itch.io, most of them made in game jams.
-- Built a 3D web portfolio to show personal models.
+- Modeled in Blender and Maya and textured with PBR in Substance 3D Painter a run-down version of Bowser's castle, as a visual storytelling exercise. [Behance](https://www.behance.net/eliam_paredes)
+- Created 3D short films and illustrations with character design (One Hundred Years of Solitude, Una velita, Grease Pencil).
 
 ### Graphic and Web Designer
 Promo Design DP Group
@@ -43,7 +41,7 @@ Sep 2020 – Apr 2024
 
 ## Skills
 - **3D:** Blender, Maya, Adobe Substance 3D Painter, Geometry Nodes
-- **Areas:** modeling, texturing, 3D animation, simulations, rendering, motion tracking
+- **Areas:** modeling, PBR texturing, character design, 3D animation, simulations, rendering (Eevee, Cycles), motion tracking
 - **Engines and web:** Unity, Three.js
 - **2D:** Blender Grease Pencil, Adobe Illustrator, Photoshop, Affinity
 - **Video:** DaVinci Resolve, Fusion
