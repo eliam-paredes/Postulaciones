@@ -1,0 +1,45 @@
+# Eliam Paredes
+Desarrollador de Software Fullstack · React · TypeScript · Integración de IA
+Santo Domingo Este, RD · eliamjesusparedes@gmail.com · +1 829 651 0720 · [linkedin.com/in/eliamparedes](https://linkedin.com/in/eliamparedes) · [github.com/eliam-paredes](https://github.com/eliam-paredes) · [eliam-paredes.github.io](https://eliam-paredes.github.io)
+
+## Resumen
+Estudiante de Ingeniería de Software (UNAPEC) que desarrolla aplicaciones web completas en React, TypeScript y Python, con front-end y back-end. Integra APIs de IA como Gemini 2.5 Flash y Veo 3 en productos y automatizaciones reales. Publica software propio y trabaja con Git, GitHub, Scrum y Jira.
+
+## Experiencia
+### Fundador y Desarrollador de Software
+Marav Studios
+Nov 2020 – Actualidad
+- Construí Planeao, aplicación web de gestión de tareas con React, TypeScript, Vite y Firebase, con front-end y back-end. [Planeao](https://eliam-paredes.github.io/planeao/#/)
+- Construí CV_buildeao, aplicación web que genera un CV a partir de los datos del usuario, con integración de la API de Gemini 2.5 Flash.
+- Programé scripts en Python que automatizan tareas repetitivas de DaVinci Resolve con APIs de IA (Veo 3, Nano Banana).
+- Publiqué Dialofy en la Unity Asset Store: sistema de diálogos en C# con editor visual por nodos.
+
+### Diseñador Gráfico y Web
+Promo Design DP Group
+Nov 2020 – Abr 2024
+- Creé desde cero el sitio web de la empresa y di mantenimiento a su contenido.
+- Programé herramientas internas con XAMPP (PHP y MySQL) y funciones en JavaScript con Google Apps Script en hojas de cálculo.
+- Gestioné tareas en Jira y di soporte técnico a equipos informáticos.
+
+### Freelancer
+Upwork
+Abr 2024 – Actualidad
+- Mantengo 100% de éxito en Job Success y la insignia Top Rated en 14 contratos.
+
+## Educación
+### Ingeniería de Software
+Universidad APEC (UNAPEC)
+Abr 2024 – Actualidad
+
+### Tecnólogo en Multimedia
+ITLA (Instituto Tecnológico de Las Américas)
+Sep 2020 – Abr 2024
+
+## Habilidades
+- **Front-end:** React, TypeScript, JavaScript, Vite, HTML5, CSS3, Tailwind CSS, Three.js
+- **Back-end y datos:** Firebase, MySQL, PHP, SQL, Google Apps Script
+- **IA y automatización:** APIs de IA (Gemini 2.5 Flash, Veo 3, Nano Banana), automatización con Python
+- **Herramientas y métodos:** Git, GitHub, Jira, Azure DevOps, Scrum, VS Code
+
+## Idiomas
+- Español (nativo), inglés (B1, intermedio)

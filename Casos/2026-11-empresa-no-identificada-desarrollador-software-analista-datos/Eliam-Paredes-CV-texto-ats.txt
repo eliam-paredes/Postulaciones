@@ -1,0 +1,45 @@
+Eliam Paredes
+Desarrollador de software · React · TypeScript · Integración de APIs de IA
+Santo Domingo Este, RD · eliamjesusparedes@gmail.com · +1 829 651 0720 · eliam-paredes.github.io · github.com/eliam-
+paredes · linkedin.com/in/eliamparedes
+RESUMEN
+Desarrollador de software con experiencia en JavaScript, TypeScript y React, y en la integración de APIs de IA
+en aplicaciones web propias. Trabaja con Git y Scrum, y maneja datos con Excel, Google Sheets y Python.
+Estudiante de Ingeniería de Software en UNAPEC, con 14 trabajos freelance completados y valoración Top
+Rated en Upwork.
+EXPERIENCIA
+Programador, Artista 3D y Diseñador de Juegos
+Upwork (freelance)
+Abr 2024 – Actualidad
+Completó 14 trabajos con 100% de Job Success Score y facturó más de USD 6.000.
+Editó videos para canales de YouTube y shorts, con valoración de 5,0 estrellas.
+Modeló en 3D un modelo para Three.js para un cliente, en 19 horas, con valoración de 5,0 estrellas.
+Director y Desarrollador
+Marav Studios (emprendimiento propio)
+Nov 2020 – Actualidad
+Desarrolla Planeao, una aplicación web de gestión de tareas, con React, TypeScript, Vite y Firebase.
+Organizada con Scrum.
+Desarrolla Creador de contenido, un SaaS con React, TypeScript e IA (en beta), y creó CV Buildeao con
+React, TypeScript y Gemini 2.5 Flash.
+Publicó TrapNight en Google Play, con más de 1.500 descargas y 4,7 estrellas.
+Diseñador Gráfico y Web
+Promo Design DP Group
+Nov 2020 – Abr 2024
+Creó desde cero el sitio web de la empresa y le dio mantenimiento.
+Programó hojas de Google Sheets con funciones en JavaScript (Apps Script) y herramientas internas con VS
+Code y XAMPP.
+EDUCACIÓN
+Ingeniería de Software
+Universidad APEC (UNAPEC), Santo Domingo
+Abr 2024 – Actualidad
+Tecnólogo en Multimedia
+ITLA (Instituto Tecnológico de Las Américas)
+Sep 2020 – Abr 2024
+HABILIDADES
+Desarrollo web: JavaScript, TypeScript, React, Vite, HTML5, CSS3, Tailwind CSS
+Datos y automatización: Python, Excel intermedio-avanzado, Google Sheets con Apps Script, MySQL,
+JSON
+Herramientas y métodos: Git, GitHub, Scrum, Jira, Azure DevOps, Firebase
+IA: integración de APIs de IA (Gemini 2.5 Flash, Veo 3, Nano Banana)
+IDIOMAS
+Español (nativo), inglés (B1, intermedio)

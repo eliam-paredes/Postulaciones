@@ -1,0 +1,36 @@
+Eliam Paredes
+Soporte a usuarios y desarrollo de software · Estudiante de Ingeniería de Software
+Santo Domingo Este, RD · eliamjesusparedes@gmail.com · +1 829 651 0720 · linkedin.com/in/eliamparedes ·
+github.com/eliam-paredes · eliam-paredes.github.io
+RESUMEN
+Tecnólogo en Multimedia y estudiante de Ingeniería de Software que ha dado soporte técnico y mantenimiento a
+equipos informáticos en una empresa, y que programa herramientas internas para resolver tareas del día a día.
+Ordenado para dar seguimiento a incidencias y tareas hasta cerrarlas.
+EXPERIENCIA
+Diseñador Gráfico y Web
+Promo Design DP Group
+Nov 2020 – Abr 2024
+Di soporte técnico a los equipos informáticos de la empresa y di seguimiento a las tareas en Jira.
+Creé desde cero el sitio web de la empresa y le di mantenimiento.
+Programé herramientas internas en VS Code y XAMPP, y hojas de Google Sheets con funciones en Apps
+Script (JavaScript).
+Diseñé piezas a medida para estampación textil según los pedidos de los clientes.
+Fundador y Desarrollador de Software
+Marav Studios
+Nov 2020 – Actualidad
+Construí Planeao, aplicación web de gestión de tareas con React, TypeScript, Vite y Firebase, con front-end y
+back-end. Planeao
+Organicé el desarrollo de mis proyectos con Scrum.
+EDUCACIÓN
+Ingeniería de Software
+Universidad APEC (UNAPEC)
+Abr 2024 – Actualidad
+Tecnólogo en Multimedia
+ITLA (Instituto Tecnológico de Las Américas)
+Sep 2020 – Abr 2024
+HABILIDADES
+Soporte: soporte técnico a usuarios, soporte de equipos informáticos, Jira
+Desarrollo: TypeScript, JavaScript, C#, Python, React, HTML, CSS
+Herramientas: Google Sheets y Apps Script, XAMPP, VS Code, Git, Azure DevOps
+IDIOMAS
+Español (nativo), inglés (B1)

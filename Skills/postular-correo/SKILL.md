@@ -128,13 +128,32 @@ Adjunto: [ruta del PDF] ([N]% de encaje)
 
 Luego añade una fila a `Casos/registro.md` con estado `lista para enviar`.
 
-## Paso 10 · Responder (UNA sola respuesta, en este orden)
+## Paso 10 · Borrador en Gmail (siempre al final)
+
+Crea el borrador con `create_draft` (conector de Gmail). Nunca `send_message`.
+
+- Solo si el correo destino es `[VERIFICADO]` (o Eliam lo confirmó). Si es
+  `[correo por confirmar]` o `[INFERIDO]`, no crees el borrador: dilo en la
+  respuesta.
+- Solo si la respuesta de "¿Estafa?" es "No".
+- `to`: el correo de `correo.md`. `subject`: la línea `Asunto:`.
+- `body`: la carta en texto plano, sin Markdown, sin firma extra.
+- `attachments`: el PDF elegido en el paso 7, en base64, con
+  `filename` (nombre del PDF) y `mimeType: application/pdf`.
+- Después, anota el id del borrador en `Casos/<slug>/correo.md` (línea
+  `Borrador Gmail: [id]`) y cambia el estado en `registro.md` a
+  `borrador en Gmail`.
+- Si la herramienta de Gmail no está disponible, no lo des por hecho: deja
+  el caso con estado `lista para enviar` y dilo en la respuesta.
+
+## Paso 11 · Responder (UNA sola respuesta, en este orden)
 
 ```
 ## Correo
 Para: ...  [VERIFICADO]
 Asunto: ...
 Adjunto: <ruta del PDF> (encaje %)
+Borrador: <id de Gmail> (o motivo por el que no se creó)
 
 ## Carta
 ...

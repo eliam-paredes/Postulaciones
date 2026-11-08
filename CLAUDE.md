@@ -4,6 +4,21 @@ Proyecto de Eliam Paredes para postular a trabajos y vender sus servicios
 (front-end React, 3D web con Three.js, Unity, integración de IA, video y 3D).
 Todo en español salvo que la oferta o el destinatario estén en otro idioma.
 
+## REGLA FUNDAMENTAL: preguntar siempre antes de empezar
+
+Cada vez que Eliam mande una oferta, un post, una propuesta o algo parecido,
+ANTES de hacer nada (ni carpeta, ni skill, ni búsqueda) pregúntale con
+`AskUserQuestion` estas dos cosas, siempre, aunque parezca obvio:
+
+1. **Modo:** ¿es para mandar por correo, una propuesta de Upwork o una
+   postulación normal completa (portal)?
+2. **CV:** ¿generar un CV específico para este puesto o no?
+
+Si crees saber la respuesta, ponla como primera opción con "(Recomendado)",
+pero pregunta igual. No hay excepciones: esta regla manda sobre la tabla de
+abajo, sobre lo que digan las skills y sobre "Todo en UNA respuesta".
+Con sus respuestas, sigue la tabla.
+
 ## Qué hacer según lo que pida Eliam (decide primero)
 
 | Si Eliam... | Haz esto |

@@ -1,0 +1,46 @@
+# Eliam Paredes
+Desarrollador de Software · Front-end y back-end · Integración de APIs de IA
+Santo Domingo Este, RD · eliamjesusparedes@gmail.com · +1 829 651 0720 · [linkedin.com/in/eliamparedes](https://linkedin.com/in/eliamparedes) · [github.com/eliam-paredes](https://github.com/eliam-paredes) · [eliam-paredes.github.io](https://eliam-paredes.github.io)
+
+## Resumen
+Desarrollador de software que construye aplicaciones web completas en React y TypeScript, con base de datos en Firebase y APIs de IA como Gemini 2.5 Flash. Estudiante de Ingeniería de Software (UNAPEC). Puedo encargarme de front-end, back-end y de conectar servicios de IA a un producto real.
+
+## Experiencia
+### Fundador y Desarrollador de Software
+Marav Studios
+Nov 2020 – Actualidad
+- Construí Planeao, aplicación web de gestión de tareas con front-end y back-end en React, TypeScript, Vite y Firebase. [Planeao](https://eliam-paredes.github.io/planeao/#/)
+- Integré la API de Gemini 2.5 Flash en CV_buildeao, aplicación web que genera un CV a partir de los datos que carga el usuario. [CV_buildeao](https://eliam-paredes.github.io/CV_buildeao/)
+- Integré la API de Gemini 2.5 Flash en Facturao, un SaaS propio.
+- Publiqué Dialofy en la Unity Asset Store: sistema de diálogos en C# con editor visual por nodos.
+- Creé Creador de contenido, SaaS en beta con plantillas e integración de IA. [Demo](https://eliam-paredes.github.io/Creador_de_contenido/)
+- Programé scripts en Python que automatizan tareas repetitivas de DaVinci Resolve con las APIs de Veo 3 y Nano Banana.
+
+### Freelancer: diseño de juegos, 3D y video
+Upwork
+Abr 2024 – Actualidad
+- Mantengo 100% de Job Success y Top Rated en 14 contratos, con 50% de clientes que repiten.
+
+### Diseñador Gráfico y Web
+Promo Design DP Group
+Nov 2020 – Abr 2024
+- Creé desde cero el sitio web de la empresa y programé herramientas internas en XAMPP y Google Apps Script (JavaScript).
+
+
+## Educación
+### Ingeniería de Software
+Universidad APEC (UNAPEC)
+Abr 2024 – Actualidad
+
+### Tecnólogo en Multimedia
+ITLA (Instituto Tecnológico de Las Américas)
+Sep 2020 – Abr 2024
+
+## Habilidades
+- **Front-end:** React, TypeScript, JavaScript, Vite, HTML5, CSS3, Tailwind CSS, Three.js
+- **Back-end y datos:** Firebase, PHP, MySQL, Google Sheets con Apps Script, JSON
+- **IA y automatización:** integración de APIs de IA (Gemini 2.5 Flash, Veo 3, Nano Banana), scripts en Python
+- **Herramientas:** Git, GitHub, Scrum, Jira, Azure DevOps, VS Code
+
+## Idiomas
+- Español (nativo), inglés (B1, intermedio)
