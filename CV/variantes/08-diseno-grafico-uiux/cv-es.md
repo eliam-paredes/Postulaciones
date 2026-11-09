@@ -46,4 +46,4 @@ Sep 2020 – Abr 2024
 - **Áreas:** branding, estampación textil, miniaturas, piezas para redes
 - **Web:** HTML5, CSS3, JavaScript, React
 - **Motion, 3D y herramientas:** Blender, DaVinci Resolve, Jira, Google Sheets
-- **Idiomas:** español (nativo), inglés (B1, intermedio)
+- **Idiomas:** español (nativo), inglés (B1, intermedio) · **Certificación:** Claude Code 101, Anthropic (Nov 2026)

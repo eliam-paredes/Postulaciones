@@ -46,4 +46,4 @@ Sep 2020 – Apr 2024
 - **UI/UX:** Figma, wireframes, UI animation
 - **Audio:** music composition for games
 - **Tools:** Git, GitHub, Azure DevOps, Jira, Scrum
-- **Spoken languages:** Spanish (native), English (B1, intermediate)
+- **Spoken languages:** Spanish (native), English (B1, intermediate) · **Certification:** Claude Code 101, Anthropic (Nov 2026)

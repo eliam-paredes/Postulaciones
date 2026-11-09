@@ -44,4 +44,4 @@ Sep 2020 – Abr 2024
 - **3D web:** Three.js, modelos 3D para web, Blender, Substance 3D Painter
 - **Diseño:** Figma, wireframes, animación de UI, Illustrator, Affinity
 - **Back-end y herramientas:** Node.js, PHP, Supabase, Firebase, MySQL, Git, GitHub, Jira, Scrum
-- **Idiomas:** español (nativo), inglés (B1, intermedio)
+- **Idiomas:** español (nativo), inglés (B1, intermedio) · **Certificación:** Claude Code 101, Anthropic (Nov 2026)

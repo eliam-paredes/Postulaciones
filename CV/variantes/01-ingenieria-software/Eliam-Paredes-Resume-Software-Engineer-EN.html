@@ -6,35 +6,33 @@ body {
   font-family: Calibri, Carlito, "Segoe UI", Arial, Helvetica, sans-serif;
   font-size: 10.5pt;
   line-height: 1.24;
-  color: #4a4a4a;
+  color: #111;
   margin: 0;
   /* sin ligaduras: evita que 'fi' salga como un solo carácter en el ATS */
   font-variant-ligatures: none;
   font-feature-settings: "liga" 0, "clig" 0;
 }
-a { color: #1a56db; text-decoration: underline; }
-h1 { font-size: 20pt; margin: 0 0 2pt; letter-spacing: 0.2pt; color: #111; text-align: center; }
-.titular { font-size: 11pt; margin: 0 0 2pt; color: #333; text-align: center; }
-.contacto { font-size: 9.5pt; margin: 0 0 6pt; color: #555; text-align: center; }
+a { color: #111; text-decoration: none; }
+h1 { font-size: 20pt; margin: 0 0 2pt; letter-spacing: 0.2pt; }
+.titular { font-size: 11pt; margin: 0 0 2pt; color: #222; }
+.contacto { font-size: 9.5pt; margin: 0 0 6pt; color: #333; }
 h2 {
   font-size: 11.5pt;
   text-transform: uppercase;
   letter-spacing: 0.6pt;
-  margin: 20pt 0 8pt;
+  margin: 7pt 0 3pt;
   padding-bottom: 1.5pt;
   border-bottom: 0.75pt solid #444;
-  color: #111;
   break-after: avoid;
 }
-/* Línea del puesto: puesto a la izquierda (destacado), empresa al lado, fecha a la derecha */
-.rol { display: flex; justify-content: space-between; align-items: baseline; gap: 8pt; margin: 10pt 0 3pt; break-after: avoid; }
-h3 { font-size: 11.5pt; font-weight: 700; margin: 0; color: #000; }
-.empresa { font-size: 10pt; font-weight: 400; color: #555; }
-.fechas { margin: 0; color: #555; font-size: 9.5pt; text-align: right; white-space: nowrap; }
+h3 { font-size: 10.8pt; margin: 4pt 0 0; break-after: avoid; }
+.org { margin: 0; font-weight: 600; color: #222; break-after: avoid; }
+.fechas { margin: 0 0 1pt; color: #555; font-size: 9.8pt; break-after: avoid; }
 p { margin: 0 0 3pt; }
-ul { margin: 2pt 0 3pt; padding-left: 14pt; }
-li { margin: 0 0 2pt; }
-.bloque { break-inside: avoid; margin: 0 0 10pt; }
+ul { margin: 1pt 0 2pt; padding-left: 14pt; }
+li { margin: 0 0 1pt; }
+.bloque { break-inside: avoid; }
+
 </style></head><body><h1>Eliam Paredes</h1>
 <p class="titular">Software Developer · TypeScript · React · C# · AI Integration</p>
 <p class="contacto">Santo Domingo Este, Dominican Republic · eliamjesusparedes@gmail.com · +1 829 651 0720 · <a href="https://linkedin.com/in/eliamparedes">linkedin.com/in/eliamparedes</a> · <a href="https://github.com/eliam-paredes">github.com/eliam-paredes</a> · <a href="https://eliam-paredes.github.io">eliam-paredes.github.io</a></p>
@@ -42,14 +40,18 @@ li { margin: 0 0 2pt; }
 <p>Software Engineering student (UNAPEC) who builds and ships personal software: React web apps with AI, a tool on the Unity Asset Store, internal tools for a company, and games. Top Rated on Upwork with 100% Job Success in 14 contracts.</p>
 <h2>Work Experience</h2>
 <div class="bloque">
-<div class="rol"><h3>Freelancer: Game Design, 3D and Video <span class="empresa">| Upwork</span></h3><p class="fechas">Apr 2024 – Present</p></div>
+<h3>Freelancer: Game Design, 3D and Video</h3>
+<p class="org">Upwork</p>
+<p class="fechas">Apr 2024 – Present</p>
 <ul>
 <li>Keep 100% Job Success and Top Rated status in 14 contracts, with 50% repeat clients and more than USD 6,000 earned.</li>
 <li>Delivered game design in 2 contracts and a 3D model for a Three.js website (5.0 review).</li>
 </ul>
 </div>
 <div class="bloque">
-<div class="rol"><h3>Founder and Software Developer <span class="empresa">| Marav Studios</span></h3><p class="fechas">Nov 2020 – Present</p></div>
+<h3>Founder and Software Developer</h3>
+<p class="org">Marav Studios</p>
+<p class="fechas">Nov 2020 – Present</p>
 <ul>
 <li>Built Planeao, a task management web app with React, TypeScript, Vite, and Firebase (front-end and back-end). <a href="https://eliam-paredes.github.io/planeao/#/">Planeao</a></li>
 <li>Built CV_buildeao and Facturao, web apps that use the Gemini 2.5 Flash API.</li>
@@ -59,29 +61,37 @@ li { margin: 0 0 2pt; }
 </ul>
 </div>
 <div class="bloque">
-<div class="rol"><h3>Graphic and Web Designer <span class="empresa">| Promo Design DP Group</span></h3><p class="fechas">Nov 2020 – Apr 2024</p></div>
+<h3>Graphic and Web Designer</h3>
+<p class="org">Promo Design DP Group</p>
+<p class="fechas">Nov 2020 – Apr 2024</p>
 <ul>
 <li>Built the company website from scratch and coded internal tools with XAMPP and Google Apps Script (JavaScript).</li>
 <li>Managed tasks in Jira, gave IT support, and designed 3 or 4 textile print designs per day.</li>
 </ul>
 </div>
 <div class="bloque">
-<div class="rol"><h3>Game Developer and UI/UX Designer <span class="empresa">| Reckers</span></h3><p class="fechas">Aug 2019 – Nov 2020</p></div>
+<h3>Game Developer and UI/UX Designer</h3>
+<p class="org">Reckers</p>
+<p class="fechas">Aug 2019 – Nov 2020</p>
 <ul>
 <li>Coded the full game Reck in Unity and C# and designed its UX and UI, in a team of 4 using Scrum, Azure DevOps, and Jira.</li>
 </ul>
 </div>
 <h2>Education</h2>
 <div class="bloque">
-<div class="rol"><h3>Software Engineering <span class="empresa">| Universidad APEC (UNAPEC)</span></h3><p class="fechas">Apr 2024 – Present</p></div>
+<h3>Software Engineering</h3>
+<p class="org">Universidad APEC (UNAPEC)</p>
+<p class="fechas">Apr 2024 – Present</p>
 </div>
 <div class="bloque">
-<div class="rol"><h3>Multimedia Technologist <span class="empresa">| ITLA (Instituto Tecnológico de Las Américas)</span></h3><p class="fechas">Sep 2020 – Apr 2024</p></div>
+<h3>Multimedia Technologist</h3>
+<p class="org">ITLA (Instituto Tecnológico de Las Américas)</p>
+<p class="fechas">Sep 2020 – Apr 2024</p>
 </div>
 <h2>Skills</h2>
 <ul>
 <li><strong>Languages:</strong> TypeScript, JavaScript, C#, Python, PHP, SQL, HTML5, CSS3</li>
 <li><strong>Front-end and back-end:</strong> React, Vite, Three.js, Tailwind CSS, Firebase, Node.js, Supabase, MySQL</li>
 <li><strong>AI and tools:</strong> AI APIs (Gemini 2.5 Flash, Nano Banana), Git, Azure DevOps, Jira, Scrum</li>
-<li><strong>Spoken languages:</strong> Spanish (native), English (B1, intermediate)</li>
+<li><strong>Spoken languages:</strong> Spanish (native), English (B1, intermediate) · <strong>Certification:</strong> Claude Code 101, Anthropic (Nov 2026)</li>
 </ul></body></html>

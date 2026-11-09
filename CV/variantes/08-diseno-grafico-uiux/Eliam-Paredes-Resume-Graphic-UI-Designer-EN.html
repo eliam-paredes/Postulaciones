@@ -6,35 +6,33 @@ body {
   font-family: Calibri, Carlito, "Segoe UI", Arial, Helvetica, sans-serif;
   font-size: 10.5pt;
   line-height: 1.24;
-  color: #4a4a4a;
+  color: #111;
   margin: 0;
   /* sin ligaduras: evita que 'fi' salga como un solo carácter en el ATS */
   font-variant-ligatures: none;
   font-feature-settings: "liga" 0, "clig" 0;
 }
-a { color: #1a56db; text-decoration: underline; }
-h1 { font-size: 20pt; margin: 0 0 2pt; letter-spacing: 0.2pt; color: #111; text-align: center; }
-.titular { font-size: 11pt; margin: 0 0 2pt; color: #333; text-align: center; }
-.contacto { font-size: 9.5pt; margin: 0 0 6pt; color: #555; text-align: center; }
+a { color: #111; text-decoration: none; }
+h1 { font-size: 20pt; margin: 0 0 2pt; letter-spacing: 0.2pt; }
+.titular { font-size: 11pt; margin: 0 0 2pt; color: #222; }
+.contacto { font-size: 9.5pt; margin: 0 0 6pt; color: #333; }
 h2 {
   font-size: 11.5pt;
   text-transform: uppercase;
   letter-spacing: 0.6pt;
-  margin: 20pt 0 8pt;
+  margin: 7pt 0 3pt;
   padding-bottom: 1.5pt;
   border-bottom: 0.75pt solid #444;
-  color: #111;
   break-after: avoid;
 }
-/* Línea del puesto: puesto a la izquierda (destacado), empresa al lado, fecha a la derecha */
-.rol { display: flex; justify-content: space-between; align-items: baseline; gap: 8pt; margin: 10pt 0 3pt; break-after: avoid; }
-h3 { font-size: 11.5pt; font-weight: 700; margin: 0; color: #000; }
-.empresa { font-size: 10pt; font-weight: 400; color: #555; }
-.fechas { margin: 0; color: #555; font-size: 9.5pt; text-align: right; white-space: nowrap; }
+h3 { font-size: 10.8pt; margin: 4pt 0 0; break-after: avoid; }
+.org { margin: 0; font-weight: 600; color: #222; break-after: avoid; }
+.fechas { margin: 0 0 1pt; color: #555; font-size: 9.8pt; break-after: avoid; }
 p { margin: 0 0 3pt; }
-ul { margin: 2pt 0 3pt; padding-left: 14pt; }
-li { margin: 0 0 2pt; }
-.bloque { break-inside: avoid; margin: 0 0 10pt; }
+ul { margin: 1pt 0 2pt; padding-left: 14pt; }
+li { margin: 0 0 1pt; }
+.bloque { break-inside: avoid; }
+
 </style></head><body><h1>Eliam Paredes</h1>
 <p class="titular">Graphic and UI/UX Designer · Illustrator · Affinity · Figma · Branding</p>
 <p class="contacto">Santo Domingo Este, Dominican Republic · eliamjesusparedes@gmail.com · +1 829 651 0720 · <a href="https://www.behance.net/eliam_paredes">behance.net/eliam_paredes</a> · <a href="https://linkedin.com/in/eliamparedes">linkedin.com/in/eliamparedes</a> · <a href="https://eliam-paredes.github.io">eliam-paredes.github.io</a></p>
@@ -42,7 +40,9 @@ li { margin: 0 0 2pt; }
 <p>Graphic designer with more than 3 years of daily production for textile printing (3 or 4 designs per day) and experience in game UX and UI. Multimedia Technologist (ITLA) with a brand redesign as final project. Can code, so designs interfaces that can be built.</p>
 <h2>Work Experience</h2>
 <div class="bloque">
-<div class="rol"><h3>Freelance Graphic Designer and Video Editor <span class="empresa">| Upwork</span></h3><p class="fechas">Apr 2024 – Present</p></div>
+<h3>Freelance Graphic Designer and Video Editor</h3>
+<p class="org">Upwork</p>
+<p class="fechas">Apr 2024 – Present</p>
 <ul>
 <li>Made graphic design and video editing for 9 months (267 hours) for a Spanish-speaking client, with a 5.0 review.</li>
 <li>Design thumbnails and graphics for YouTube channels and social media.</li>
@@ -50,21 +50,27 @@ li { margin: 0 0 2pt; }
 </ul>
 </div>
 <div class="bloque">
-<div class="rol"><h3>Founder and Game Developer <span class="empresa">| Marav Studios</span></h3><p class="fechas">Nov 2020 – Present</p></div>
+<h3>Founder and Game Developer</h3>
+<p class="org">Marav Studios</p>
+<p class="fechas">Nov 2020 – Present</p>
 <ul>
 <li>Designed the interface, art, and experience of TrapNight, a rhythm game with more than 1,500 downloads and 4.7 stars on Google Play.</li>
 <li>Designed and built the interface of personal React web apps (Planeao, CV_buildeao) and of my personal website.</li>
 </ul>
 </div>
 <div class="bloque">
-<div class="rol"><h3>Graphic and Web Designer <span class="empresa">| Promo Design DP Group</span></h3><p class="fechas">Nov 2020 – Apr 2024</p></div>
+<h3>Graphic and Web Designer</h3>
+<p class="org">Promo Design DP Group</p>
+<p class="fechas">Nov 2020 – Apr 2024</p>
 <ul>
 <li>Designed 3 or 4 textile print designs per day from each client's request, in Illustrator and Affinity, and prepared the files for printing.</li>
 <li>Designed and built the company website from scratch, and organized work with Jira and automated Google Sheets.</li>
 </ul>
 </div>
 <div class="bloque">
-<div class="rol"><h3>Game Developer and UI/UX Designer <span class="empresa">| Reckers</span></h3><p class="fechas">Aug 2019 – Nov 2020</p></div>
+<h3>Game Developer and UI/UX Designer</h3>
+<p class="org">Reckers</p>
+<p class="fechas">Aug 2019 – Nov 2020</p>
 <ul>
 <li>Designed the full UX, wireframes, and UI animations of the card game Reck, in a team of 4.</li>
 <li>Coded the game in Unity and C#, to test every screen in the real product.</li>
@@ -72,10 +78,14 @@ li { margin: 0 0 2pt; }
 </div>
 <h2>Education</h2>
 <div class="bloque">
-<div class="rol"><h3>Software Engineering <span class="empresa">| Universidad APEC (UNAPEC)</span></h3><p class="fechas">Apr 2024 – Present</p></div>
+<h3>Software Engineering</h3>
+<p class="org">Universidad APEC (UNAPEC)</p>
+<p class="fechas">Apr 2024 – Present</p>
 </div>
 <div class="bloque">
-<div class="rol"><h3>Multimedia Technologist <span class="empresa">| ITLA (Instituto Tecnológico de Las Américas)</span></h3><p class="fechas">Sep 2020 – Apr 2024</p></div>
+<h3>Multimedia Technologist</h3>
+<p class="org">ITLA (Instituto Tecnológico de Las Américas)</p>
+<p class="fechas">Sep 2020 – Apr 2024</p>
 <ul>
 <li>Final project: brand redesign for the company Ñame Ñame SRL.</li>
 </ul>
@@ -87,5 +97,5 @@ li { margin: 0 0 2pt; }
 <li><strong>Areas:</strong> branding, textile printing, thumbnails, social media graphics</li>
 <li><strong>Web:</strong> HTML5, CSS3, JavaScript, React</li>
 <li><strong>Motion, 3D and tools:</strong> Blender, DaVinci Resolve, Jira, Google Sheets</li>
-<li><strong>Spoken languages:</strong> Spanish (native), English (B1, intermediate)</li>
+<li><strong>Spoken languages:</strong> Spanish (native), English (B1, intermediate) · <strong>Certification:</strong> Claude Code 101, Anthropic (Nov 2026)</li>
 </ul></body></html>

@@ -45,4 +45,4 @@ Sep 2020 – Abr 2024
 - **Lenguajes:** TypeScript, JavaScript, C#, Python, PHP, SQL, HTML5, CSS3
 - **Front-end y back-end:** React, Vite, Three.js, Tailwind CSS, Firebase, Node.js, Supabase, MySQL
 - **IA y herramientas:** APIs de IA (Gemini 2.5 Flash, Nano Banana), Git, Azure DevOps, Jira, Scrum
-- **Idiomas:** español (nativo), inglés (B1, intermedio)
+- **Idiomas:** español (nativo), inglés (B1, intermedio) · **Certificación:** Claude Code 101, Anthropic (Nov 2026)

@@ -45,4 +45,4 @@ Sep 2020 – Apr 2024
 - **Animation and motion:** Blender, Grease Pencil, motion graphics, 3D animation
 - **Formats:** YouTube videos, shorts, TikTok, thumbnails
 - **Design and AI:** Illustrator, Photoshop, Affinity, Nano Banana
-- **Spoken languages:** Spanish (native), English (B1, intermediate)
+- **Spoken languages:** Spanish (native), English (B1, intermediate) · **Certification:** Claude Code 101, Anthropic (Nov 2026)

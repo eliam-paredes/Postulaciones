@@ -46,4 +46,4 @@ Sep 2020 – Abr 2024
 - **Lenguajes:** TypeScript, JavaScript, Python, PHP, C#, SQL
 - **Desarrollo:** React, Vite, Firebase, Node.js, Supabase, MySQL
 - **Herramientas:** Git, GitHub, Azure DevOps, Jira, DaVinci Resolve, Blender
-- **Idiomas:** español (nativo), inglés (B1, intermedio)
+- **Idiomas:** español (nativo), inglés (B1, intermedio) · **Certificación:** Claude Code 101, Anthropic (Nov 2026)

@@ -242,7 +242,8 @@ Sep 2020 – Abr 2024 · Graduado {fuente: pendientes}
 - Proyecto final: rediseño de marca para la empresa Ñame Ñame SRL {fuente: pendientes}
 
 ## certificaciones
-- Ninguna que mostrar (las que tiene son antiguas) {fuente: pendientes}
+- Claude Code 101 · Anthropic (curso oficial) · Nov 2026 {fuente: conversación 2026-11-08}
+- Las demás que tiene son antiguas y no se muestran {fuente: pendientes}
 
 ## idiomas
 - Español: nativo

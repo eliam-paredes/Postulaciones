@@ -46,4 +46,4 @@ Sep 2020 – Apr 2024
 - **Areas:** branding, textile printing, thumbnails, social media graphics
 - **Web:** HTML5, CSS3, JavaScript, React
 - **Motion, 3D and tools:** Blender, DaVinci Resolve, Jira, Google Sheets
-- **Spoken languages:** Spanish (native), English (B1, intermediate)
+- **Spoken languages:** Spanish (native), English (B1, intermediate) · **Certification:** Claude Code 101, Anthropic (Nov 2026)

@@ -45,4 +45,4 @@ Sep 2020 – Abr 2024
 - **Motores y web:** Unity, Three.js
 - **2D:** Blender Grease Pencil, Adobe Illustrator, Photoshop, Affinity
 - **Video:** DaVinci Resolve, Fusion
-- **Idiomas:** español (nativo), inglés (B1, intermedio)
+- **Idiomas:** español (nativo), inglés (B1, intermedio) · **Certificación:** Claude Code 101, Anthropic (Nov 2026)

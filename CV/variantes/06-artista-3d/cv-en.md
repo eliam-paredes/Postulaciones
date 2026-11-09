@@ -46,4 +46,4 @@ Sep 2020 – Apr 2024
 - **2D:** Blender Grease Pencil, Adobe Illustrator, Photoshop, Affinity
 - **Video:** DaVinci Resolve, Fusion
 - **Coding:** C#, TypeScript, JavaScript
-- **Spoken languages:** Spanish (native), English (B1, intermediate)
+- **Spoken languages:** Spanish (native), English (B1, intermediate) · **Certification:** Claude Code 101, Anthropic (Nov 2026)

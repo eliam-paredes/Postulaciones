@@ -45,4 +45,4 @@ Sep 2020 – Apr 2024
 - **VFX:** DaVinci Resolve Fusion, motion tracking
 - **Editing:** DaVinci Resolve, Adobe Premiere Pro
 - **Formats and AI:** YouTube, shorts, TikTok, thumbnails, AI animation, Nano Banana
-- **Spoken languages:** Spanish (native), English (B1, intermediate)
+- **Spoken languages:** Spanish (native), English (B1, intermediate) · **Certification:** Claude Code 101, Anthropic (Nov 2026)
