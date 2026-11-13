@@ -1,0 +1,47 @@
+Eliam Paredes
+Soporte técnico y desarrollo de software · SQL · Integración de APIs · Automatización con Python
+Santo Domingo Este, RD · eliamjesusparedes@gmail.com · +1 829 651 0720 · linkedin.com/in/eliamparedes · github.com/eliam-paredes
+· eliam-paredes.github.io
+RESUMEN
+Estudiante de Ingeniería de Software (UNAPEC) y Tecnólogo en Multimedia (ITLA) con experiencia en soporte técnico en
+empresa y en mantener en línea aplicaciones web propias. Integra APIs, trabaja con bases de datos MySQL y Firebase, y
+escribe scripts en Python para reducir tareas manuales. Da seguimiento a cada tarea hasta cerrarla.
+EXPERIENCIA
+Freelancer: diseño de juegos, 3D y video
+Upwork
+Abr 2024 – Actualidad
+Mantengo 100% Job Success y Top Rated en 14 contratos, con 50% de clientes que repiten.
+Fundador y Desarrollador de Software
+Marav Studios
+Nov 2020 – Actualidad
+Construí y mantengo publicadas en GitHub Pages tres apps web en React y TypeScript: Planeao, CV_buildeao y Creador
+de contenido. Planeao
+Desarrollé el front-end y el back-end de Planeao con Firebase como base de datos, organizado con Scrum.
+Integré la API de Gemini 2.5 Flash en CV_buildeao y Facturao para procesar la información del usuario.
+Programé scripts en Python que automatizan tareas repetitivas de DaVinci Resolve y consumen APIs de IA (Veo 3, Nano
+Banana), con el código versionado en GitHub.
+Diseñador Gráfico y Web
+Promo Design DP Group
+Nov 2020 – Abr 2024
+Di soporte técnico a los equipos informáticos de la empresa y di seguimiento a las tareas en Jira hasta cerrarlas.
+Creé desde cero el sitio web de la empresa, le di mantenimiento y diseñé 3 o 4 piezas al día para estampación textil.
+Programé herramientas internas con VS Code, XAMPP y MySQL, y hojas de Google Sheets con funciones en Apps Script
+(JavaScript) para reducir trabajo manual.
+Game Developer y Diseñador UI/UX
+Reckers
+Ago 2019 – Nov 2020
+Programé en Unity y C# el juego Reck en un equipo de 4 con Scrum, Azure DevOps y Jira.
+EDUCACIÓN
+Ingeniería de Software
+Universidad APEC (UNAPEC)
+Abr 2024 – Actualidad
+Tecnólogo en Multimedia
+ITLA (Instituto Tecnológico de Las Américas)
+Sep 2020 – Abr 2024
+HABILIDADES
+Soporte y operación: soporte técnico, mantenimiento de sitios y apps web, seguimiento de tareas en Jira, Excel
+(intermedio-avanzado), Google Sheets
+Datos e integraciones: SQL, MySQL, Firebase, integración de APIs, JSON, XML
+Automatización y versionamiento: Python, JavaScript, Apps Script, Git, GitHub, Azure DevOps
+Desarrollo: TypeScript, React, C#, PHP, HTML5, CSS3
+Idiomas: español (nativo), inglés (B1) · Certificación: Claude Code 101, Anthropic (Nov 2026)
