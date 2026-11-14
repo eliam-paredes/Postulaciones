@@ -1,0 +1,53 @@
+# ============================================================
+# Repo público: aquí se ignora todo lo privado de Eliam.
+# Se publican las skills, las herramientas, las plantillas
+# y los ejemplos con empresas ficticias.
+# ============================================================
+
+# --- Postulaciones reales (a qué empresas se postula) ---
+/Casos/*
+!/Casos/_plantilla/
+!/Casos/_ejemplo-portal/
+!/Casos/_ejemplo-correo/
+# registro.md (estado de cada postulación) queda ignorado por Casos/*
+
+# --- Datos personales y CV ---
+# Experiencia, salario, historias de entrevista, motivaciones,
+# CVs originales y variantes en PDF.
+/CV/
+
+# --- Ventas: clientes, prospectos y listas de empresas ---
+/Ventas/prospectos/
+/Ventas/propuestas/*
+!/Ventas/propuestas/LEEME.md
+!/Ventas/propuestas/_ejemplo-upwork.md
+/Ventas/ofertas/*
+!/Ventas/ofertas/LEEME.md
+
+# --- Claude Code ---
+# .claude/skills es un enlace (junction) a Skills/; se recrea con
+# el comando del CLAUDE.md. Sin esto, las skills se suben dos veces.
+.claude/skills
+.claude/settings.local.json
+
+# --- Archivos sueltos que pueden tener datos privados ---
+*.pdf
+!Skills/**/*.pdf
+*.docx
+*.env
+.env*
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# --- Sistema y editores ---
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+*.tmp
+*~
